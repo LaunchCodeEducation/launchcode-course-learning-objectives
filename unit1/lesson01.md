@@ -12,8 +12,7 @@
 - Use `console.log` to print to the console
 - Write code comments
 - Explain the primary uses of code comments
-- Syntax
-- errors
+- Describe the role of syntax rules in programming
 
 ## Data: Variables and Values
 
