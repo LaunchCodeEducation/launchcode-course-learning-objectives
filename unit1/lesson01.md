@@ -35,10 +35,3 @@
 - Explain initialization of a variable
 - Explain the difference between variable declaration and initialization
 
-## Debugging
-
-- Describe how to debug programs using `console.log` and comments
-- Explain the three common error types: syntax error, runtime error, semantic error
-- Give examples of each of the three common error types
-- Explain some best practices to avoid errors and debugging
-- Explain how each of the following errors may occur, with examples: `TypeError`, `ReferenceError`, `SyntaxError`

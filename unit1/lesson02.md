@@ -18,3 +18,11 @@
 - Write code with nested conditionals
 - Write a conditional using `if` statement and an `else if` clause
 - Explain the relationship between conditionals and boolean expressions
+
+## Debugging
+
+- Describe how to debug programs using `console.log` and comments
+- Explain the three common error types: syntax error, runtime error, semantic error
+- Give examples of each of the three common error types
+- Explain some best practices to avoid errors and debugging
+- Explain how each of the following errors may occur, with examples: `TypeError`, `ReferenceError`, `SyntaxError`
