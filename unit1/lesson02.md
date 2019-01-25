@@ -1,6 +1,14 @@
 # Unit 1 - Lesson 2 Learning Objectives
 
-## Booleans
+## Goals
+
+- Understand how common boolean expressions are evaluated
+- Use boolean expression to create conditional statements
+- Debug simple programs and recognize common errors
+
+## Objectives
+
+### Booleans
 
 - Explain what a boolean value is
 - Explain what logical operators are
@@ -12,14 +20,14 @@
 - Understand the truth tables for binary boolean operators `&&` and `||`
 - Explain and properly implement expressions that rely on operator precedence
 
-## Conditionals
+### Conditionals
 
 - Write an `if` statement with and without an `else` clause
 - Write code with nested conditionals
 - Write a conditional using `if` statement and an `else if` clause
 - Explain the relationship between conditionals and boolean expressions
 
-## Debugging
+### Debugging
 
 - Describe how to debug programs using `console.log` and comments
 - Explain the three common error types: syntax error, runtime error, semantic error

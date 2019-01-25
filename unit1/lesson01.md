@@ -1,20 +1,29 @@
 # Unit 1 - Lesson 1 Learning Objectives
 
-## How Programs Work
+## Goals
+
+- Write and run simple programs
+- Use variables to store program data
+- Understand how data is stored differently based on its type
+- Carry out simple numeric calculations with code
+
+## Objectives
+
+### How Programs Work
 
 - Explain what an algorithm is
 - Explain what a programming language is
 - Explain why one programming language might chosen over another
 - Run a program and locate its output in the console
 
-## How to Write Code
+### How to Write Code
 
 - Use `console.log` to print to the console
 - Write code comments
 - Explain the primary uses of code comments
 - Describe the role of syntax rules in programming
 
-## Data: Variables and Values
+### Data: Variables and Values
 
 - Explain what a value is
 - Explain what a data type is
@@ -34,4 +43,3 @@
 - Explain reassignment of a variable
 - Explain initialization of a variable
 - Explain the difference between variable declaration and initialization
-
