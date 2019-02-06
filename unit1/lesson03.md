@@ -3,7 +3,7 @@
 ## Goals
 
 - Use the `Math` module for common mathematical operations
-- Use iteration to repeat code blocks
+- Use iteration to repeat the execution of a code block
 - Properly write `for` and `while` loops
 - Use `for` and `while` loops in appropriate contexts
 
@@ -11,7 +11,7 @@
 
 ### The `Math` Object
 
-- Use `Math.PI` to obtain the value of the mathemtical constant pi
+- Use `Math.PI` to obtain the value of the mathemtical constant Pi
 - Understand and properly use common `Math` functions: `random`, `round`, `floor`, `ceil`, `sqrt`, `trunc`, `abs`
 
 ### Loops
@@ -24,6 +24,6 @@
 - Write a `while` loop with a simple comparison condition
 - Write a `while` loop that validates user input
 - Describe the behavior of an infinite loop
-- Understand the differences between `for` and `while` loops and when each is preferred
+- Understand the differences between `for` and `while` loops, and when each is preferred
 - Use a `break` statement to terminate a loop
 - Use a `continue` statement to terminate a single iteration of a loop
