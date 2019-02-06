@@ -18,7 +18,8 @@
 
 ### How to Write Code
 
-- Use `console.log` to print to the console
+- Use `console.log()` to print to the console
+- Use `prompt()` to get input strings from the user
 - Write code comments
 - Explain the primary uses of code comments
 - Describe the role of syntax rules in programming
@@ -29,10 +30,11 @@
 - Explain what a data type is
 - Identify common data types: number, string, object
 - Explain what a variable is
-- Declare variables using `var`, `let`, and `const`
-- Understanding the differences between and `var`, `let`, and `const`, as well as situations in which each should be used
+- Declare variables using `let`, and `const`
+- Understanding the differences between and `let`, and `const`, as well as situations in which each should be used
 - Create legal variable names
 - Given a variable, determine the data type of its value using `typeof`
+- Use type conversion functions: `Number`, `String`
 - Explain what a statement is
 - Write assignment statements using `=`
 - Explain what an expression is

@@ -19,6 +19,7 @@
 - Write boolean expressions using logical operators: `&&`, `||`, `!`
 - Understand the truth tables for binary boolean operators `&&` and `||`
 - Explain and properly implement expressions that rely on operator precedence
+- Use `Boolean` to convert non-boolean values
 
 ### Conditionals
 
