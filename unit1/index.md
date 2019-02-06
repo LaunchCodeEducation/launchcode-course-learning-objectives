@@ -7,3 +7,5 @@ Unit 1 is taught in JavaScript.
 [Lesson 2](lesson02.md)
 
 [Lesson 3](lesson03.md)
+
+[Lesson 4](lesson04.md)
