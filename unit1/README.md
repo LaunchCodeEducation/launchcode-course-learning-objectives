@@ -11,3 +11,4 @@ Lesson # | Topics | Objectives
 5 | Functions: Anyonymous functions and recursion | [objectives](lesson05.md)
 6 | Unit testing | [objectives](lesson06.md)
 7 | Test-driven development, exceptions, problem solving | [objectives](lesson07.md)
+8 | Scope; types and special values | [objectives](lesson08.md)
