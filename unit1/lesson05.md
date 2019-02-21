@@ -8,13 +8,17 @@
 
 ## Objectives
 
+### Functions As Objects
+
+- Understand and describe how functions in JavaScript can be used as values/objects
+- Assign anonyous functions to variables
+- Write a function that takes another function as an input parameter
+- Call a function that takes another function as an input parameter
+
 ### Anonymous Functions
 
 - Write an anonymous function
-- Assign anonyous functions to variables
 - Explain how an anonymous function can be called, even though it doesn't have a defined name
-- Write a function that takes another function as an input parameter
-- Call a function that takes another function as an input parameter
 
 ### Recursion
 
