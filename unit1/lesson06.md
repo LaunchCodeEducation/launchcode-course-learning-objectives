@@ -2,15 +2,19 @@
 
 ## Goals
 
-- Write unit tests to test the behavior of functions
-- Identify proper test cases for which a test should be written
-- Understand the importance of testing in creating well-functioning code
+- Create and use object literals in JS
 
 ## Objectives
 
-- Describe the importance of unit testing
-- Explain what a unit test is
-- Describe how the concept of assertions allows us to define expected behavior of code
-- Identify test cases, including test case types: positive, negative, edge
-- Set up a test suite with QUnit
-- Write QUnit tests using `assert.equal`, `assert.notEqual`, and `assert.throws`
+### Objects
+
+- Understand objects a collections of properties that are key/value pairs
+- Create objects
+- Describe the allowed data types of keys and values
+- Understand a method of an object as a property which has a value that is a function
+- Use the `this` keyword within a method to reference the object that the method belongs to
+- Utilize objects as input parameters and return values of functions
+- Access and modify object properties using both bracket syntax and dot-notation
+- Use a `for...in` loop to iterate through the properties of an object
+- Use the `delete` operator to remove properties from an object
+- Understand object values as references, and how that affects comparisons between objects

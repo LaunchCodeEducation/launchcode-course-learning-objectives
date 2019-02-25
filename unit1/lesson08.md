@@ -1,23 +1,24 @@
-# Unit 1 - Lesson 7 Learning Objectives
+# Unit 1 - Lesson 8 Learning Objectives
 
 ## Goals
 
-- Understand how the manner and location of variable declaration affects how it can be used.
-- Define variables with the minimal scope necessary.
-- Understand how JS handles types, and how a type system is a fundamental aspect of a programming language.
-- Understand the meaning and use-cases of special values in JS.
+- Write unit tests to test the behavior of functions
+- Identify proper test cases for which a test should be written
+- Understand the importance of testing in creating well-functioning code
+- Use test-driven development to define the behavior of code before writing it, and to ensure that code is properly tested
 
 ## Objectives
 
-### Scope
+### Unit Testing
 
-- Understand the contexts in which a variable may be declared: block/local, global, execution context
-- Understand and properly declare variables in the best context for the intended use
-- Describe shadowing, and how it affects variable visibility
-- Explain variable hoisting
+- Describe the importance of unit testing
+- Explain what a unit test is
+- Describe how the concept of assertions allows us to define expected behavior of code
+- Identify test cases, including test case types: positive, negative, edge
+- Set up a test suite with QUnit
+- Write QUnit tests using `assert.equal`, `assert.notEqual`, and `assert.throws`
 
-### More on Types
+### Test-driven Development
 
-- Describe the meaning of special primitive types `undefined` and `null` and provide examples of situations in which they may be used
-- Understand the difference between primitive and object types, including what it means for primitive types to be immutable
-- List the 6 primitive types in JS: `string`, `number`, `boolean`, `null`, and `undefined`
+- Explain how test-driven development helps reduce bugs in code
+- Use the red-green-refactor technique to implement TDD
