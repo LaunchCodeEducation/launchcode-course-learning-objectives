@@ -50,5 +50,6 @@
 - Explain what an expression is
 - Explain what it means to evaluate an expression
 - Evaluate expressions using operators: `+`, `-`, `/`, `*`, `**`, `%`, `++`, `--`
+- Evaluat expressions using compound assignment operators: `+=`, `-=`, `*=`, `/=`
 - Explain what the modulus operator `%` does
-- Evaluate an expression using the rules of precedence for the order of operations 
+- Evaluate an expression using the rules of precedence for the order of operations
