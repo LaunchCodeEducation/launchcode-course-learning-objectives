@@ -15,8 +15,8 @@
 - Explain what a unit test is
 - Describe how the concept of assertions allows us to define expected behavior of code
 - Identify test cases, including test case types: positive, negative, edge
-- Set up a test suite with QUnit
-- Write QUnit tests using `assert.equal`, `assert.notEqual`, and `assert.throws`
+- Set up a test suite with Jasmine and the `assert` module
+- Write Jasmine tests using `assert.equal`, `assert.notEqual`, and `assert.throws`
 
 ### Test-driven Development
 
