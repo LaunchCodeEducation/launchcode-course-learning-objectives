@@ -2,8 +2,6 @@
 
 ## Goals
 
-- Understand the components of the course, and how each is important to gaining and improving coding skills and knowledge
-- Write and run simple programs
 - Use variables to store program data
 - Understand how data is stored differently based on its type
 - Carry out simple numeric calculations with code
@@ -42,7 +40,7 @@
 - Explain initialization of a variable
 - Explain the difference between variable declaration and initialization
 - Understanding the differences between and `let`, and `const`, as well as situations in which each should be used
-- Create legal variable names 
+- Create legal variable names
 - Describe what a keyword is, along with commonly-used keywords
 - Given a variable, determine the data type of its value using `typeof`
 - Use type conversion functions: `Number`, `String`

@@ -4,7 +4,8 @@ Unit 1 is taught in JavaScript.
 
 Lesson # | Topics | Objectives
 :------: | ------ | :--------:
-1 | How code works; data types, values, and variables | [objectives](lesson01.md)
+Pre-work | How code works | [objectives](pre-work.md)
+1 | Data types, values, and variables | [objectives](lesson01.md)
 2 | Booleans and conditionals, debugging | [objectives](lesson02.md)
 3 | Iteration, the `Math` object | [objectives](lesson03.md)
 4 | Functions: Named functions | [objectives](lesson04.md)

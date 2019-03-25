@@ -8,9 +8,9 @@
 
 ## Objectives
 
-### Functions As Objects
+### Functions As Values
 
-- Understand and describe how functions in JavaScript can be used as values/objects
+- Understand and describe how functions in JavaScript can be used as values
 - Assign anonyous functions to variables
 - Write a function that takes another function as an input parameter
 - Call a function that takes another function as an input parameter
