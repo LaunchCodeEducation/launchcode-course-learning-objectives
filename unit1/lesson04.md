@@ -18,6 +18,5 @@
 - Explain what a `return` statement does
 - Understand variable scope as it pertains to functions
 - Explain what variable shadowing is
-- Use the accumulator pattern
 - Write a function that calls another function
 - Use properly descriptive names when defining functions

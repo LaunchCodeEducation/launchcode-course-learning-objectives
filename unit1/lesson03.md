@@ -27,3 +27,4 @@
 - Understand the differences between `for` and `while` loops, and when each is preferred
 - Use a `break` statement to terminate a loop
 - Use a `continue` statement to terminate a single iteration of a loop
+- Use the accumulator pattern
