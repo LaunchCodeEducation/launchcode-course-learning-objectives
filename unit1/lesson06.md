@@ -2,19 +2,26 @@
 
 ## Goals
 
-- Create and use object literals in JS
+- Create and use anonymous functions
+- Use recursion to create algorithms that solve recursive problems
+- Use functions as input parameters to other functions
 
 ## Objectives
 
-### Objects
+### Functions As Values
 
-- Understand objects a collections of properties that are key/value pairs
-- Create objects
-- Describe the allowed data types of keys and values
-- Understand a method of an object as a property which has a value that is a function
-- Use the `this` keyword within a method to reference the object that the method belongs to
-- Utilize objects as input parameters and return values of functions
-- Access and modify object properties using both bracket syntax and dot-notation
-- Use a `for...in` loop to iterate through the properties of an object
-- Use the `delete` operator to remove properties from an object
-- Understand object values as references, and how that affects comparisons between objects
+- Understand and describe how functions in JavaScript can be used as values
+- Assign anonyous functions to variables
+- Write a function that takes another function as an input parameter
+- Call a function that takes another function as an input parameter
+
+### Anonymous Functions
+
+- Write an anonymous function
+- Explain how an anonymous function can be called, even though it doesn't have a defined name
+
+### Recursion
+
+- Describe the concept of a recursive problem, including the definitions of _base case_ and _recursive case_
+- Explain how base cases are important in preventing infinite loops
+- Write a recursive function

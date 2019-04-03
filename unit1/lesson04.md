@@ -1,22 +1,24 @@
-# Unit 1 - Lesson 3 Learning Objectives
+# Unit 1 - Lesson 4 Learning Objectives
 
 ## Goals
 
-- Understand the role of functions in making code modular and reusable
-- Create programmer-defined functions
+- Use iteration to repeat the execution of a code block
+- Properly write `for` and `while` loops
+- Use `for` and `while` loops in appropriate contexts
 
 ## Objectives
 
-*Note:* All objectives below refer to named functions
+### Loops
 
-- Explain what a function is
-- Write a function with no parameters, a single parameter, and multiple parameters
-- Call a funtion, with and without parameters
-- Understand the behavior of parameters that are not provided by the caller
-- Use a `return` statement to complete execution of a function
-- Use a `return` statement to provide a value to the function caller
-- Explain what a `return` statement does
-- Understand variable scope as it pertains to functions
-- Explain what variable shadowing is
-- Write a function that calls another function
-- Use properly descriptive names when defining functions
+- Write `for` loop that iterates from 0...n
+- Describe the role of each of the 3 components of a `for` statement: initialization, condition, final expression
+- Write `for` loops that initialize a variable to something other than 0
+- Write `for` loops that have a condition other than `i < n`
+- Write `for` loops that have a final expression other than `i++`
+- Write a `while` loop with a simple comparison condition
+- Write a `while` loop that validates user input
+- Describe the behavior of an infinite loop
+- Understand the differences between `for` and `while` loops, and when each is preferred
+- Use a `break` statement to terminate a loop
+- Use a `continue` statement to terminate a single iteration of a loop
+- Use the accumulator pattern

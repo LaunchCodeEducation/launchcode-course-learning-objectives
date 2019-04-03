@@ -2,16 +2,25 @@
 
 ## Goals
 
-- Import external modules
-- Create and import custom modules
+- Create and use object literals in JS
+- Use the `Math` module for common mathematical operations
 
 ## Objectives
 
-### Modules
+### Objects
 
-- Explain why modules are useful for organizing and sharing code
-- Use `require` to import modules
-- Reference and use module properties
-- Install external Node modules using `npm`
-- Create a module and import it within another file in the same project
-- Use the `module.exports` object to expose module properties
+- Understand objects a collections of properties that are key/value pairs
+- Create objects
+- Describe the allowed data types of keys and values
+- Understand a method of an object as a property which has a value that is a function
+- Use the `this` keyword within a method to reference the object that the method belongs to
+- Utilize objects as input parameters and return values of functions
+- Access and modify object properties using both bracket syntax and dot-notation
+- Use a `for...in` loop to iterate through the properties of an object
+- Use the `delete` operator to remove properties from an object
+- Understand object values as references, and how that affects comparisons between objects
+
+### The `Math` Object
+
+- Use `Math.PI` to obtain the value of the mathemtical constant Pi
+- Understand and properly use common `Math` functions: `random`, `round`, `floor`, `ceil`, `sqrt`, `trunc`, `abs`

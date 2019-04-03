@@ -2,26 +2,21 @@
 
 ## Goals
 
-- Create and use anonymous functions
-- Use recursion to create algorithms that solve recursive problems
-- Use functions as input parameters to other functions
+- Understand the role of functions in making code modular and reusable
+- Create programmer-defined functions
 
 ## Objectives
 
-### Functions As Values
+*Note:* All objectives below refer to named functions
 
-- Understand and describe how functions in JavaScript can be used as values
-- Assign anonyous functions to variables
-- Write a function that takes another function as an input parameter
-- Call a function that takes another function as an input parameter
-
-### Anonymous Functions
-
-- Write an anonymous function
-- Explain how an anonymous function can be called, even though it doesn't have a defined name
-
-### Recursion
-
-- Describe the concept of a recursive problem, including the definitions of _base case_ and _recursive case_
-- Explain how base cases are important in preventing infinite loops
-- Write a recursive function
+- Explain what a function is
+- Write a function with no parameters, a single parameter, and multiple parameters
+- Call a funtion, with and without parameters
+- Understand the behavior of parameters that are not provided by the caller
+- Use a `return` statement to complete execution of a function
+- Use a `return` statement to provide a value to the function caller
+- Explain what a `return` statement does
+- Understand variable scope as it pertains to functions
+- Explain what variable shadowing is
+- Write a function that calls another function
+- Use properly descriptive names when defining functions
