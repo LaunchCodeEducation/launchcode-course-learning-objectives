@@ -11,6 +11,13 @@ Goals
 Objectives
 ----------
 
+Anonymous Functions
+^^^^^^^^^^^^^^^^^^^
+
+-  Write an anonymous function
+-  Explain how an anonymous function can be called, even though it
+   doesn’t have a defined name
+
 Functions As Values
 ^^^^^^^^^^^^^^^^^^^
 
@@ -20,17 +27,10 @@ Functions As Values
 -  Write a function that takes another function as an input parameter
 -  Call a function that takes another function as an input parameter
 
-Anonymous Functions
-^^^^^^^^^^^^^^^^^^^
-
--  Write an anonymous function
--  Explain how an anonymous function can be called, even though it
-   doesn’t have a defined name
-
 Recursion
 ^^^^^^^^^
 
 -  Describe the concept of a recursive problem, including the
-   definitions of *base case* and *recursive case*
+   definitions of **base case** and **recursive case**
 -  Explain how base cases are important in preventing infinite loops
 -  Write a recursive function

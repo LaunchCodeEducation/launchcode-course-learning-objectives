@@ -10,6 +10,9 @@ Goals
 Objectives
 ----------
 
+Functions
+^^^^^^^^^
+
 *Note:* All objectives below refer to named functions
 
 -  Explain what a function is

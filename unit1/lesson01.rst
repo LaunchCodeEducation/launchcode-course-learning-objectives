@@ -11,32 +11,6 @@ Goals
 Objectives
 ----------
 
-How This Course Works
-^^^^^^^^^^^^^^^^^^^^^
-
--  Understand the goals of LC101
--  Explain how blended learning works
--  Identify the primary activities of the course, and the purpose of
-   each: prep work, studios, exercises, and assignments
-
-How Programs Work
-^^^^^^^^^^^^^^^^^
-
--  Explain what an algorithm is
--  Explain what a programming language is
--  Explain why one programming language might chosen over another
--  Explain how a program runs, including the differences between
-   compiled and interpreted languages
--  Run a program and locate its output in the console
-
-How to Write Code
-^^^^^^^^^^^^^^^^^
-
--  Use ``console.log()`` to print to the console
--  Write code comments
--  Explain the primary uses of code comments
--  Describe the role of syntax rules in programming
-
 Data: Variables and Values
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
