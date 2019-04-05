@@ -4,25 +4,27 @@ Unit 1 - Lesson 12 Learning Objectives
 Goals
 -----
 
+- Create static HTML pages using a variety of different tags inside the body.
+- Create an account on Github and create hello world repository.
+- Understand what Git is and why programmers use it.
+
 Objectives
 ----------
 
 HTML
 ^^^^
 
-- Identify the main type of content on the WWW
 - Know what HTML stands for
-- Describe the request/response flow defined by HTTP
 - Describe the components of HTML tag structure
 - Describe what an HTML element is, and how an element is related to a tag
 - Name, describe the purpose of, and use common HTML tags: <b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>
 - Define HTML attributes and how they are used
-- Describe how whitespace in HTML documents affects rendering
+- Describe how whitespace in HTML documents effects rendering
 - Describe inline and block display; for common elements identify their default display
 - Describe HTML document structure and associated elements: doctype, <html>, <head>, <body>, <title>
-- Create a properly-structured document head
+- Write a properly-structured document head.
 - Describe the purpose of, and use additional HTML tags: <ul>, <ol>, <li>, <table>
-- Create HTML comments
+- Write HTML comments
 
 Git
 ^^^

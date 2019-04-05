@@ -4,6 +4,10 @@ Unit 1 - Lesson 2 Learning Objectives
 Goals
 -----
 
+- Add styles to static HTML pages using CSS.
+- Work with Git to version control personal work.
+- Learn how Git can be used to manage teamwork.
+
 Objectives
 ----------
 
@@ -28,6 +32,5 @@ Git
 - Merge one branch into another
 - Describe what happens when, during a merge, there are conflicting changes in the two branches
 - Describe the common branching strategies of feature branches and long-running branches
-- Describe what is remote repository is
+- Describe what a remote repository is
 - Create and push to a remote repository
-- Collaborate with another student on a git project via GitHub
