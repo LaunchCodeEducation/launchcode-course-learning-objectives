@@ -20,10 +20,9 @@ HTML
 - Name, describe the purpose of, and use common HTML tags: <b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>
 - Define HTML attributes and how they are used
 - Describe how whitespace in HTML documents effects rendering
-- Describe inline and block display; for common elements identify their default display
 - Describe HTML document structure and associated elements: doctype, <html>, <head>, <body>, <title>
 - Write a properly-structured document head.
-- Describe the purpose of, and use additional HTML tags: <ul>, <ol>, <li>, <table>
+- Describe the purpose of and be able to use additional HTML tags: <ul>, <ol>, <li>, <table>
 - Write HTML comments
 
 Git
@@ -37,5 +36,5 @@ Git
 - Initialize a new Git repository
 - Commit to a local repository
 - Clone a project from a remote Git repository
-- Explain the two Git file status: tracked and untracked
+- Explain the two Git file statuses: tracked and untracked
 - Explain what types of changes should be within a commit
