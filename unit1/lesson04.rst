@@ -25,10 +25,8 @@ Loops
 - Write ``for`` loops that have a final expression other than ``i++``
 - Write a ``while`` loop with a simple comparison condition
 - Write a ``while`` loop that validates user input
-- Describe the behavior of an infinite loop
+- Describe the behavior of an infinite loop and how one can be avoided
 - Understand the differences between ``for`` and ``while`` loops, and
    when each is preferred
 - Use a ``break`` statement to terminate a loop
-- Use a ``continue`` statement to terminate a single iteration of a
-   loop
 - Use the accumulator pattern
