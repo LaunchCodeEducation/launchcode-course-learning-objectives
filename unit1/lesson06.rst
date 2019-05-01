@@ -17,15 +17,16 @@ Anonymous Functions
 - Write an anonymous function
 - Explain how an anonymous function can be called, even though it
    doesn’t have a defined name
+- Explain common uses of anonymous functions
 
 Functions As Values
 ^^^^^^^^^^^^^^^^^^^
 
 - Understand and describe how functions in JavaScript can be used as
    values
-- Assign anonyous functions to variables
-- Write a function that takes another function as an input parameter
-- Call a function that takes another function as an input parameter
+- Assign anonymous and named functions to variables
+- Write a function that uses a parameter as a function
+- Call a function that takes another function as an argument
 
 Recursion
 ^^^^^^^^^
