@@ -13,16 +13,21 @@ Goals
 Objectives
 ----------
 
-- Know what the DOM acroynym stands for
+- Know what the DOM acronym stands for
 - Understand what a Document Object Model is
 - Know how the DOM relates to HTML, CSS, and the browser
 - Differentiate between dynamic and static web pages
-- Describe how the DOM is used to make web pages dynamic
-- Understand why the DOM is written in JavaScript and lives in the browser
-- Know that JavaScript is an event driven programing language
-- Explain what an event is
-- Trigger and handle events
-- Understand event bubbling
-- Explain how the DOM uses events
-- Familair with common DOM objects and methods
+- Describe how JavaScript and the DOM are used to make web pages dynamic
 - Alter a web page using the DOM
+- Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.js 
+- Know that JavaScript is an event driven programming language
+- Explain what an event is
+- Write an event handler function
+- Use arguments provided to event handlers to access information about the triggering event
+- Explicitly trigger an event using code
+- Understand event bubbling and how to stop it
+- Know these common DOM events: ``load``, ``click``, ``hover``, ``focus``, ``keyup?``, ``change``, ``submit``
+- Familiar with the global variable ``window`` and some of it's methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.history``, ``window.back()``, ``window.close()``
+- Familiar with the global variable ``document`` and some of it's methods and properties: ``document.getElementById()``, ``document.getElementsByTagName()``, ``document.getElementsByTagName()``, ``document.querySelector()``, ``document.querySelectorAll()``, ``document.write()``
+- Able to use ``Node`` method ``node.appendChild()``
+- Able to use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
