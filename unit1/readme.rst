@@ -47,4 +47,7 @@ Unit 1 is taught in JavaScript.
      -  `objectives <lesson12.rst>`__
    * - 13
      - CSS and Git part 2
-     -  `objectives <lesson13.rst>`__     
+     -  `objectives <lesson13.rst>`__
+   * - 14
+     - DOM and Events
+     -  `objectives <lesson14.rst>`__   
