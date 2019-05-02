@@ -13,12 +13,12 @@ Goals
 Objectives
 ----------
 
-- Understand what the Document Object Model (DOM) is
 - Differentiate between dynamic and static web pages
-- Describe how JavaScript and the DOM are used to make web pages dynamic
-- Alter a web page using the DOM
+- Know that JavaScript is used to make web pages dynamic
 - Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.js
 - Use the ``<script>`` to include JavaScript into an HTML page
+- Understand what the Document Object Model (DOM) is
+- Alter a web page using the DOM
 - Know that JavaScript is an event driven programming language
 - Explain what an event is
 - Write an event handler function
