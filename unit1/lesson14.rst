@@ -19,6 +19,10 @@ Objectives
 - Use the ``<script>`` to include JavaScript into an HTML page
 - Understand what the Document Object Model (DOM) is
 - Alter a web page using the DOM
+- Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.close()``
+- Understand and use the global variable ``document`` and these methods: ``document.getElementById()``, ``document.getElementsByTagName()``, ``document.getElementsByClassName()``, ``document.querySelector()``, ``document.querySelectorAll()``, ``document.write()``
+- Understand and use ``Node`` method ``node.appendChild()``
+- Understand and use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
 - Know that JavaScript is an event driven programming language
 - Explain what an event is
 - Write an event handler function
@@ -26,7 +30,4 @@ Objectives
 - Explicitly trigger an event using code
 - Understand event bubbling and how to stop it
 - Know these common DOM events: ``load``, ``click``, ``hover``, ``focus``, ``change``
-- Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.close()``
-- Understand and use the global variable ``document`` and these methods: ``document.getElementById()``, ``document.getElementsByTagName()``, ``document.getElementsByClassName()``, ``document.querySelector()``, ``document.querySelectorAll()``, ``document.write()``
-- Understand and use ``Node`` method ``node.appendChild()``
-- Understand and use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
+
