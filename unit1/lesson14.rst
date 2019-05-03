@@ -17,6 +17,7 @@ Objectives
 - Know that JavaScript is used to make web pages dynamic
 - Describe how the JavaScript environment of a browser is different from other JavaScript environments, such as Node.js
 - Use the ``<script>`` to include JavaScript into an HTML page
+- Know to put your ``<script>`` after the elements you want to alter, unless using load events
 - Understand what the Document Object Model (DOM) is
 - Alter a web page using the DOM
 - Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.close()``
@@ -30,4 +31,5 @@ Objectives
 - Explicitly trigger an event using code
 - Understand event bubbling and how to stop it
 - Know these common DOM events: ``load``, ``click``, ``mouseover``, ``focus``, ``change``
+- Know that load events can be used to run JavaScript at a certain point
 
