@@ -23,7 +23,7 @@ Objectives
 - Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.close()``
 - Understand and use the global variable ``document`` and these methods and properties: ``document.title``, ``document.URL``, ``document.getElementById()``, ``document.getElementsByTagName()``, ``document.getElementsByClassName()``, ``document.querySelector()``, ``document.querySelectorAll()``
 - Understand and use ``Node`` method ``node.appendChild()``
-- Understand and use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.append()``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
+- Understand and use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
 - Know that JavaScript is an event driven programming language
 - Explain what an event is
 - Write an event handler function
