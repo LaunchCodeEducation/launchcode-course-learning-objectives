@@ -33,5 +33,5 @@ Recursion
 
 - Describe the concept of a recursive problem, including the
    definitions of **base case** and **recursive case**
-- Explain how base cases are important in preventing infinite loops
+- Explain how base cases are important in preventing infinite recursion
 - Write a recursive function
