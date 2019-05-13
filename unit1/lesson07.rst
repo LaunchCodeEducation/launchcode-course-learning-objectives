@@ -15,7 +15,7 @@ Objects
 
 - Understand objects a collections of properties that are key/value
    pairs
-- Create objects
+- Create object literals using ``{ }``
 - Describe the allowed data types of keys and values
 - Understand a method of an object as a property which has a value that
    is a function
@@ -26,7 +26,6 @@ Objects
    dot-notation
 - Use a ``for...in`` loop to iterate through the properties of an
    object
-- Use the ``delete`` operator to remove properties from an object
 - Understand object values as references, and how that affects
    comparisons between objects
 
