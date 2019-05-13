@@ -20,8 +20,8 @@ Objectives
 - Know to put your ``<script>`` after the elements you want to alter, unless using load events
 - Understand what the Document Object Model (DOM) is
 - Alter a web page using the DOM
-- Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``, ``window.close()``
-- Understand and use the global variable ``document`` and these methods and properties: ``document.title``, ``document.getElementById()``, ``document.getElementsByTagName()``, ``document.getElementsByClassName()``, ``document.querySelector()``, ``document.querySelectorAll()``
+- Understand and use the global variable ``window`` and these methods and properties: ``window.alert()``, ``window.console``, ``window.confirm()``, ``window.location``.
+- Understand and use the global variable ``document`` and these methods and properties: ``document.title``, ``document.getElementById()``, ``document.querySelector()``, ``document.querySelectorAll()``
 - Understand and use ``Element`` methods and properties: ``element.innerHTML``, ``element.style``, ``element.getAttribute()``, ``element.setAttribute()``, ``element.addEventListener()``
 - Know that JavaScript is an event driven programming language
 - Explain what an event is
@@ -29,6 +29,6 @@ Objectives
 - Use arguments provided to event handlers to access information about the triggering event
 - Explicitly trigger an event using code
 - Understand event bubbling and how to stop it
-- Know these common DOM events: ``load``, ``click``, ``mouseover``, ``focus``, ``change``
+- Know these common DOM events: ``load``, ``click``, ``mouseover``
 - Know that load events can be used to run JavaScript at a certain point
 
