@@ -16,7 +16,9 @@ HTTP
 ^^^^
 
 - Identify the main parts of a URL and describe the role of each: protocol, host, port, path, query parameter, fragment
+- Describe the role of web servers in providing web content
 - Understand the request/response flow of HTTP
+- Identify and explain the basic role of the components of network communication: HTTP, TCP/IP, DNS
 - Explain the two main sections of an HTTP request: headers and body
 - Name the default ports for HTTP requests
 - Name the two most common HTTP request types---``GET`` and ``POST``---and describe common use cases for each
@@ -25,11 +27,8 @@ HTTP
 - Describe common HTTP response status codes: 200, 404, 500
 - Describe meaning of HTTP response headers
 - Describe common response headers: ``content-length``, ``content-type``
-- Describe the role of web servers in providing web content
-- Explain what a web application does, and how it differs from a web server
-- Identify and explain the basic role of the components of network communication: HTTP, TCP/IP, DNS
 - Explain the flow of an HTTP request made from a web browser
-- Exlain how resource loading occurs in web pages (scripts, images, etc)
+- Exlain how resource loading occurs in web pages (e.g. scripts and images)
 - View requests and responses using web browser dev tools 
 
 Forms
