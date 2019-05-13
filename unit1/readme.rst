@@ -51,3 +51,6 @@ Unit 1 is taught in JavaScript.
    * - 14
      - DOM and Events
      -  `objectives <lesson14.rst>`__   
+   * - 15
+     - HTTP and forms
+     -  `objectives <lesson15.rst>`__   
