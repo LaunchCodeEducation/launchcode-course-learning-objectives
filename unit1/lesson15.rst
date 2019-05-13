@@ -5,7 +5,7 @@ Goals
 -----
 
 - Understand how the HTTP protocol enables web communication
-- Use forms to get user data
+- Use forms to obtain user data
 - Apply knowledge of HTTP to create effective form-based code
 - Use best practices to create secure, user-friendly forms
 
@@ -37,9 +37,8 @@ Forms
 - Create a form using HTML
 - Understand the main form element attributes, ``action`` and ``method``
 - Properly use common inputs: text, submit, radio, checkbox, select, textarea, password, email 
-- Use label elements to add human-readable labels to form inputs
-- Use the ``name`` attribute to label form inputs
-- Explain how the ``name`` of an input impacts how data is submitted
+- Use ``label`` elements to add human-readable labels to form inputs
+- Use the ``name`` attribute to identify inputs in the submitted data
 - Understand and describe form submission
 - Use event handlers to validate form data
 - Know how to cancel form submission using ``event.preventDefault()``
