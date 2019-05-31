@@ -53,4 +53,7 @@ Unit 1 is taught in JavaScript.
      -  `objectives <lesson14.rst>`__   
    * - 15
      - HTTP and forms
-     -  `objectives <lesson15.rst>`__   
+     -  `objectives <lesson15.rst>`__
+   * - 18
+     - Angular
+     -  `objectives <lesson18.rst>`__   
