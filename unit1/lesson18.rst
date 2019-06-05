@@ -39,3 +39,7 @@ Students will not learn:
 * ng Routing
 * Services
 * Observables
+
+Questions:
+
+* Should we show them how to use the baked in Angular testing?
