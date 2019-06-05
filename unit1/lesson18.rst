@@ -13,9 +13,13 @@ Class 1
 * create an angular app with angular cli
 * understand the concept of components
 * Angular folder/file setup
+* Templating system
+
+At the end of class 2 students will be albe to create a simple TODO Angular application that uses data binding, and static data.
 
 Class 2
 
+* ng directives (for, if)
 * click handlers
 * data binding
 * using local static data
