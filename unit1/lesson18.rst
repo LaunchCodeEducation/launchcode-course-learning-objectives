@@ -5,6 +5,8 @@ Misc Notes/Decisions
 * avoid Observable if possible and use fetch instead 
 * make sure the three angular days progress well, we don't drown them in a bad way
 
+At the end of class 1 students will be able to create a simple Hello World Angular component that includes HTML/CSS/JavaScript as one component.
+
 Class 1
 
 * why are js libraries popular
