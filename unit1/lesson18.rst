@@ -34,3 +34,8 @@ Class 3
 
   * could host it on same droplet as this https://handlers.education.launchcode.org/request-parrot
  
+Students will not learn:
+
+* ng Routing
+* Services
+* Observables
