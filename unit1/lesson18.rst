@@ -10,6 +10,7 @@ Class 1
 * why are js libraries popular
 * create an angular app with angular cli
 * understand the concept of components
+* Angular folder/file setup
 
 Class 2
 
