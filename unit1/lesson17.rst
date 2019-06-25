@@ -15,4 +15,6 @@ Objectives
 - Declare and use variables of ``number``, ``string``, and ``boolean`` types.
 - Declare and use arrays and tuples.
 - Know what the ``any`` type is and use cases for it.
+- Set up TypeScript development environment.
+- Properly use ``export``.
 
