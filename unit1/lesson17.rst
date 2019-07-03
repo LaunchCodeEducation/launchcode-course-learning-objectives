@@ -14,7 +14,8 @@ Objectives
 - Be able to explain the differences between static and dynamic typing.
 - Declare and use variables of ``number``, ``string``, and ``boolean`` types.
 - Declare and use arrays and tuples.
-- Know what the ``any`` type is and use cases for it.
-- Set up TypeScript development environment.
-- Properly use ``export``.
+- Properly use ``export`` and ``import``.
+- Declare and use classes and interfaces in TypeScript.
+- Be able to distinguish between classes and interfaces in TypeScript.
+- Be able to use the ``implements`` keyword to make classes implement interfaces.
 
