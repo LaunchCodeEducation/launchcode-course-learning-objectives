@@ -57,6 +57,9 @@ Unit 1 is taught in JavaScript.
    * - 16
      - Fetch and JSON
      -  `objectives <lesson16.rst>`__
+   * - 17
+     - TypeScript
+     - `objectives <lesson17.rst>`__
    * - 18
      - Angular
      -  `objectives <lesson18.rst>`__   
