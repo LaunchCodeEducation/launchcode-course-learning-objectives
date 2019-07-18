@@ -41,8 +41,7 @@ Debugging
 ^^^^^^^^^
 
 - Describe how to debug programs using ``console.log``
-- Explain the three common error types: syntax error, runtime error,
-   logic error
+- Explain the three common error types: syntax error, runtime error, logic error
 - Give examples of each of the three common error types
 - Explain some best practices to avoid errors and debugging
 - Explain how ``ReferenceError`` and ``SyntaxError`` may occur, with examples
