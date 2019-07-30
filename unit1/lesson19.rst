@@ -16,7 +16,5 @@ Class 2
   </li>
   
 * Know how to use local variables `index`, `first`, `last`, `even`, `odd`.
-* Attribute directives alter the behavior of HTML elements.
-* Many attribute directives can be applied to one host element.
 * click handlers
 * data binding / user input
