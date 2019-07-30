@@ -9,9 +9,12 @@ Class 2
 * Understand that `*ngIf` adds or removes the host element and it's descendents.
 * Know that each iteration of `*ngFor` creates a copy of the host element and it's descendents.
 * Can use current item as a local variable
+
   * Example: <li *ngFor="let user of users"> {{user}} </li>
+  
 * Know how to use local variables `index`, `first`, `last`, `even`, `odd`.
 * Handle a click with a `(click)` directive and function in component to respond to the click.
 * Understand how `(click)` relates to DOM `anElement.addEventListener("click", aFunction);`
 * Use template reference variables and a click handler to take in user input
+
   * Example: `<input #name (click)=addThing(name)>`
