@@ -18,7 +18,7 @@ Terminal
 - Know what a terminal is and why programmers use it.
 - Understand how the filesystem works and how to write a file path.
 - Be able to navigate to specific files and folders.
-- Understand how to use basic commands including ls, cd, pwd, mkdir, rm, and touch.
+- Understand how to use basic commands: ls, cd, pwd, mkdir, rm, and touch.
 - Understand how to run programs in the terminal.
 - Understand how to stop processes that are running in the terminal.
 
