@@ -1,10 +1,10 @@
-At the end of class 2 students will be albe to create a simple TODO Angular application that uses data binding, and static data.
+At the end of angular class 2 students will be able to declare click handelers, take in user input, and display it and show lists of data using a loop directive.
 
 Class 2
 
 * Directives are used in templates to manipulate DOM elements.
 * Structural directives shape the page by adding and removing elements.
-* Structural directives start with a `*`, such as `*ngif`, `*ngfor`.
+* Structural directives start with a `*`, such as `*ngIf`, `*ngFor`.
 * Only one structural directive can be assigned to a host element.
 * Understand that `*ngIf` adds or removes the host element and it's descendents.
 * Know that each iteration of `*ngFor` creates a copy of the host element and it's descendents.
