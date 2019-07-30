@@ -62,4 +62,10 @@ Unit 1 is taught in JavaScript.
      - `objectives <lesson17.rst>`__
    * - 18
      - Angular
-     -  `objectives <lesson18.rst>`__   
+     -  `objectives <lesson18.rst>`__ 
+   * - 19
+     - Angular
+     -  `objectives <lesson19.rst>`__   
+   * - 20
+     - Angular
+     -  `objectives <lesson20.rst>`__   
