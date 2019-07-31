@@ -11,10 +11,10 @@ Angular Class 2 Objectives:
 * Can use current item as a local variable
 
   * Example: ``<li *ngFor="let user of users"> {{user}} </li>``
-  
+
 * Know how to use local variables ``index``, ``first``, ``last``, ``even``, ``odd``.
-* Handle a click with a ``(click)`` directive and function in component to respond to the click.
+* Handle a click with a ``(click)`` directive that executes a function in the component.
 * Understand how ``(click)`` relates to DOM ``anElement.addEventListener("click", aFunction);``
 * Use template reference variables and a click handler to take in user input
 
-  * Example: ``<input #name (click)=addThing(name)>``
+  * Example: ``<input #name (click)="addThing(name)">``
