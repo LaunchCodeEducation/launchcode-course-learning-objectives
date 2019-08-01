@@ -4,12 +4,23 @@ Unit 1 - Lesson 12 Learning Objectives
 Goals
 -----
 
+- Understand what the terminal is and how to use it.
 - Create static HTML pages using a variety of different tags inside the body.
 - Create an account on Github and create hello world repository.
 - Understand what Git is and why programmers use it.
 
 Objectives
 ----------
+
+Terminal
+^^^^^^^^
+
+- Know what a terminal is and why programmers use it.
+- Understand how the filesystem works and how to write a file path.
+- Be able to navigate to specific files and folders.
+- Understand how to use basic commands: ls, cd, pwd, mkdir, rm, and touch.
+- Understand how to run programs in the terminal.
+- Understand how to stop processes that are running in the terminal.
 
 HTML
 ^^^^
