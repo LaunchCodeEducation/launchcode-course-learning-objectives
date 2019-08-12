@@ -41,31 +41,31 @@ Unit 1 is taught in JavaScript.
      - `objectives <lesson09.rst>`__
    * - 10
      - Scope, exceptions, more on types
-     -  `objectives <lesson10.rst>`__
+     - `objectives <lesson10.rst>`__
    * - 12
      - HTML and Git part 1
-     -  `objectives <lesson12.rst>`__
+     - `objectives <lesson12.rst>`__
    * - 13
      - CSS and Git part 2
-     -  `objectives <lesson13.rst>`__
+     - `objectives <lesson13.rst>`__
    * - 14
      - DOM and Events
-     -  `objectives <lesson14.rst>`__   
+     - `objectives <lesson14.rst>`__   
    * - 15
      - HTTP and forms
-     -  `objectives <lesson15.rst>`__
+     - `objectives <lesson15.rst>`__
    * - 16
      - Fetch and JSON
-     -  `objectives <lesson16.rst>`__
+     - `objectives <lesson16.rst>`__
    * - 17
      - TypeScript
      - `objectives <lesson17.rst>`__
    * - 18
      - Angular
-     -  `objectives <lesson18.rst>`__ 
+     - `objectives <lesson18.rst>`__ 
    * - 19
      - Angular
-     -  `objectives <lesson19.rst>`__   
+     - `objectives <lesson19.rst>`__   
    * - 20
      - Angular
-     -  `objectives <lesson20.rst>`__   
+     - `objectives <lesson20.rst>`__   
