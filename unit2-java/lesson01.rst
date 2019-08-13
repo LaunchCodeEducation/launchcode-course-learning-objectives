@@ -10,9 +10,9 @@ Objectives
 
 - Install JDK
 - Install IntelliJ IDEA
-- Create a “Hello World!” program in Java using a text editor
+- Create a "Hello World!" program in Java using a text editor
 - Compile and run this program on the command line
-- Create and run a “Hello World!” program using IntelliJ
+- Create and run a "Hello World!" program using IntelliJ
 - Import a project from GitHub into IntelliJ
 - Explain the difference between static and dynamic typing
 - Write single and multi-line comments in Java
