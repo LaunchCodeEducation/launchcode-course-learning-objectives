@@ -13,7 +13,6 @@ Objectives
 
 - Understand the relationship between a class and an object
 - Understand the two types of class members: fields and methods
-- Understand what a property is, and how a property relates to a field
 - Properly use the ``this`` keyword
 - Explain how encapsulation results in better code
 - Explain and properly use the four access modifiers: ``public``, ``private``, ``protected``, and default (package-private, or default access)
@@ -24,6 +23,5 @@ Objectives
 - Describe and use constructor overloading
 - Describe the default constructor, including when and how it will be provided for a given class
 - Use ``this()`` to invoke one constructor from within another in the same class
-- Explain and properly use the ``static`` keyword
-- Explain and properly use the ``final`` keyword
-- Create constant fields using ``static final``
+- Define and call instance methods of an object
+- Reference instance properties within methods
