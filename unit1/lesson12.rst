@@ -18,7 +18,7 @@ Terminal
 - Know what a terminal is and why programmers use it.
 - Understand how the filesystem works and how to write a file path.
 - Be able to navigate to specific files and folders.
-- Understand how to use basic commands: ls, cd, pwd, mkdir, rm, and touch.
+- Understand how to use basic commands: ``ls``, ``cd``, ``pwd``, ``mkdir``, ``rm``, and ``touch``.
 - Understand how to run programs in the terminal.
 - Understand how to stop processes that are running in the terminal.
 
@@ -28,12 +28,12 @@ HTML
 - Know what HTML stands for
 - Describe the components of HTML tag structure
 - Describe what an HTML element is, and how an element is related to a tag
-- Name, describe the purpose of, and use common HTML tags: <b>, <em>, <a>, <img>, <br>, <p>, <span>, <div>, <form>
+- Name, describe the purpose of, and use common HTML tags: ``<b>``, ``<em>``, ``<a>``, ``<img>``, ``<br>``, ``<p>``, ``<span>``, ``<div>``, ``<form>``
 - Define HTML attributes and how they are used
 - Describe how whitespace in HTML documents effects rendering
-- Describe HTML document structure and associated elements: doctype, <html>, <head>, <body>, <title>
+- Describe HTML document structure and associated elements: doctype, ``<html>``, ``<head>``, ``<body>``, ``<title>``
 - Write a properly-structured document head.
-- Describe the purpose of and be able to use additional HTML tags: <ul>, <ol>, <li>, <table>
+- Describe the purpose of and be able to use additional HTML tags: ``<ul>``, ``<ol>``, ``<li>``, ``<table>``
 - Write HTML comments
 
 Git

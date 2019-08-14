@@ -41,7 +41,10 @@ Unit 1 is taught in JavaScript.
      - `objectives <lesson09.rst>`__
    * - 10
      - Scope, exceptions, more on types
-     - `objectives <lesson10.rst>`__
+     -  `objectives <lesson10.rst>`__
+   * - 11
+     - Classes
+     -  `objectives <lesson11.rst>`__
    * - 12
      - HTML and Git part 1
      - `objectives <lesson12.rst>`__

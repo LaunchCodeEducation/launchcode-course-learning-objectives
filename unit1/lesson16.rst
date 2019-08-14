@@ -13,8 +13,8 @@ Objectives
 - Understand why data formats are necessary
 - Rules of the JSON data format
 - Know difference between JSON and XML
-- Make a request to an API using `fetch`
+- Make a request to an API using ``fetch``
 - Handle a response from an API
 - Update the web page using data from a response
 - Understand the asynchronous cycle of network requests
-- Familair with terms AJAX and XHR(XmlHttpRequest)
+- Familiar with terms AJAX and XHR (XmlHttpRequest)
