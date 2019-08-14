@@ -28,7 +28,7 @@ HTTP
 - Describe meaning of HTTP response headers
 - Describe common response headers: ``content-length``, ``content-type``
 - Explain the flow of an HTTP request made from a web browser
-- Exlain how resource loading occurs in web pages (e.g. scripts and images)
+- Explain how resource loading occurs in web pages (e.g. scripts and images)
 - View requests and responses using web browser dev tools 
 
 Forms

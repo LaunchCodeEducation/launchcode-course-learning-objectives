@@ -4,7 +4,7 @@ Unit 1 - Lesson 4 Learning Objectives
 Goals
 -----
 
-- Work with strings using bracket notation and commont string methods
+- Work with strings using bracket notation and common string methods
 - Create and work with arrays using bracket notation and common array methods
 - Understand strings as ordered collections, similar to arrays
 

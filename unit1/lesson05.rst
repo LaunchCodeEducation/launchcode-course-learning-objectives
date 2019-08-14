@@ -16,11 +16,9 @@ Functions
 *Note:* All objectives below refer to named functions
 
 - Explain what a function is
-- Write a function with no parameters, a single parameter, and multiple
-   parameters
-- Call a funtion, with and without parameters
-- Understand the behavior of parameters that are not provided by the
-   caller
+- Write a function with no parameters, a single parameter, and multiple parameters
+- Call a function, with and without parameters
+- Understand the behavior of parameters that are not provided by the caller
 - Use a ``return`` statement to complete execution of a function
 - Use a ``return`` statement to provide a value to the function caller
 - Explain what a ``return`` statement does
