@@ -64,11 +64,11 @@ Unit 1 is taught in JavaScript.
      - TypeScript
      - `objectives <lesson17.rst>`__
    * - 18
-     - Angular
+     - Angular 1
      -  `objectives <lesson18.rst>`__ 
    * - 19
-     - Angular
+     - Angular 2
      -  `objectives <lesson19.rst>`__   
    * - 20
-     - Angular
+     - Angular 3
      -  `objectives <lesson20.rst>`__   
