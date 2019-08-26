@@ -1,4 +1,4 @@
-At the end of class 1 students will be able to create a simple Hello World Angular component that includes HTML/CSS/JavaScript as one component.
+At the end of class 1 students will be able to create a simple Hello World Angular component that includes HTML/CSS as one component.
 
 Class 1
 
