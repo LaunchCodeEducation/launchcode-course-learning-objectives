@@ -22,4 +22,3 @@ Objectives
 - Describe and implement the best practices for implementing ``.equals`` within a class
 - Explain when ``.hashCode`` should be implemented within a class
 - Use IntelliJ’s code generation tools to generate well-structured ``.equals`` and ``.hashCode`` methods
-- Use the Single Responsibility Principle to create small, well-designed classes
