@@ -47,19 +47,19 @@ Unit 1 is taught in JavaScript.
      -  `objectives <lesson11.rst>`__
    * - 12
      - HTML and Git part 1
-     -  `objectives <lesson12.rst>`__
+     - `objectives <lesson12.rst>`__
    * - 13
      - CSS and Git part 2
-     -  `objectives <lesson13.rst>`__
+     - `objectives <lesson13.rst>`__
    * - 14
      - DOM and Events
-     -  `objectives <lesson14.rst>`__   
+     - `objectives <lesson14.rst>`__   
    * - 15
      - HTTP and forms
-     -  `objectives <lesson15.rst>`__
+     - `objectives <lesson15.rst>`__
    * - 16
      - Fetch and JSON
-     -  `objectives <lesson16.rst>`__
+     - `objectives <lesson16.rst>`__
    * - 17
      - TypeScript
      - `objectives <lesson17.rst>`__
