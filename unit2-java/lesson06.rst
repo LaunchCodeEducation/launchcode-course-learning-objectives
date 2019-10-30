@@ -4,7 +4,7 @@ Unit 2 (Java) - Lesson 6 Learning Objectives
 Goals
 -----
 
-- Understand the role of inheritance in enable effective code resuse.
+- Understand the role of object-oriented inheritance to enable effective code resuse.
 - Effectively use Java's inheritance tools to build clean, reusable code.
 
 Objectives
@@ -18,4 +18,4 @@ Objectives
 - Describe and use abstract classes and abstract methods
 - Explain how variable and parameter declaration relates to inheritance (i.e. how inheritance enables polymorphic behavior)
 - Use basic class diagrams to visualize and design class relationships
-- Write unit tests to test Java code that uses inheritance
+- Write unit tests to verify Java code that uses inheritance
