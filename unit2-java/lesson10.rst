@@ -10,8 +10,7 @@ Goals
 Objectives
 ----------
 
-- Describe what an IDE like IntelliJ offers programmers that text
-   editors do not
+- Describe what an IDE like IntelliJ offers programmers that text editors do not
 - Run your program in an IDE
 - Use keyboard shortcuts in IntelliJ
 - Easily refactor and rename in IntelliJ

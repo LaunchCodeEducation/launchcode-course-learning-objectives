@@ -13,11 +13,11 @@ Objectives
 - Review HTTP basics 
 - Describe the MVC pattern
 - Create simple Spring Boot projects using Gradle
-- Describe the basic functionality the Gradle provides: dependency management, build tasks
+- Describe the basic functionality that Gradle provides: dependency management, build tasks
 - Run a Spring Boot web app in IntelliJ
 - Understand the role of controllers in a Java web app
 - Create and modify controllers to handle different routes and request types
-- Use the annotations ``GetMapping``, ``PostMapping``, ``@RequestMapping``, ``@Controller``, and ``@ResponseBody``
+- Use the annotations ``@GetMapping``, ``@PostMapping``, ``@RequestMapping``, ``@Controller``, and ``@ResponseBody``
 - Get data from users via ``GET``, ``POST``, and URL segments (using ``@PathVariable``)
 - Return plain-text responses from a controller 
 - Use ``HttpServletRequest`` to access query parameters
