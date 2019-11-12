@@ -4,18 +4,24 @@ Unit 2 (Java) - Lesson 9 Learning Objectives
 Goals
 -----
 
+- Understand the role of views in an MVC application
+- Use Thymeleaf to render views in Spring Boot 
+
 Objectives
 ----------
 
-- Use Thymeleaf templates for the *View* portion of MVC
-- Identify differences between XHTML and HTML5
-- Modify the ``build.gradle`` file
+- Understand templates as the *View* portion of MVC
+- Add the Thymeleaf dependency to ``build.gradle``
+- Identify the default template location for Spring Boot projects
 - Create new Templates in IntelliJ
-- Pass data from the views to controllers, and from controllers to views
 - Use best practices for organizing templates and request mappings
-- Explain what it means for Thymeleaf to be a "natural" template
-- Iterate through ``ArrayList``\ s and ``HashMap``\ s using Thymeleaf syntax
-- Conditionally display data using Thymeleaf syntax
-- Use the annotation ``@RequestParam``
-- Refactor recurring HTML ("boilerplate code") into a reusable template
-- Include static resources such as CSS and JavaScript files
+- Pass data from controllers to views using a Spring-provided instance of ``Model``
+- Reference attribute values in templates using ``${ }``
+- Use ``th:text`` to dynamically populate the contents of an HTML element
+- Explain what it means for Thymeleaf to be a "natural" template system 
+- Iterate through ``ArrayList``\ s and ``HashMap``\ s using ``th:each`` syntax in conjunction with a ``th:block`` tag
+- Conditionally display data using ``th:if`` and ``th:unless``
+- Create a Thymeleaf file template in IntelliJ
+- Define template fragments using ``th:fragment`` and insert template fragments using ``th:replace``
+- Include static resources such as CSS and JavaScript files using ``th:src`` and ``th:href``
+- Create a form (in Thymeleaf) and form handler (in a controller class)
