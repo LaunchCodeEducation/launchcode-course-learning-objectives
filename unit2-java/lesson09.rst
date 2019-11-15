@@ -19,7 +19,7 @@ Objectives
 - Reference attribute values in templates using ``${ }``
 - Use ``th:text`` to dynamically populate the contents of an HTML element
 - Explain what it means for Thymeleaf to be a "natural" template system 
-- Iterate through ``ArrayList``\ s and ``HashMap``\ s using ``th:each`` syntax in conjunction with a ``th:block`` tag
+- Iterate through ``ArrayList`` and ``HashMap`` collections using ``th:each`` syntax in conjunction with a ``th:block`` tag
 - Conditionally display data using ``th:if`` and ``th:unless``
 - Create a Thymeleaf file template in IntelliJ
 - Define template fragments using ``th:fragment`` and insert template fragments using ``th:replace``
