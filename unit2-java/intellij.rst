@@ -21,10 +21,16 @@ Debugging
 IDE Features
 ^^^^^^^^^^^^
 
-- Understand how IntelliJ uses Gradle to carry out like compiling and running code
+- Understand how IntelliJ uses Gradle to carry out tasks like compiling and running code
 - Understand how IntelliJ flags compiler warnings and errors
+- Understand the strengths and limitations of the Quick Fixes tool to resolve compiler errors
 - User refactoring tools to efficiently improve and change code
-- Use embedded tools: terminal, Git, database interface 
-- Use common keyboard shortcuts: organize imports (opt+cmd+o), import package (alt+enter)
+- Use embedded tools: 
+   - Terminal
+   - Version Control
+   - Database Browser 
+- Use common keyboard shortcuts: 
+   - Organize imports (``opt+cmd+o``)
+   - Import package (``alt+enter``)
 - Track TODOs using ``// TODO`` and the *TODO* pane
 - View class structure using the *Structure* pane
