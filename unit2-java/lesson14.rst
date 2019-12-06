@@ -7,7 +7,7 @@ Goals
 Objectives
 ----------
 
-- Utilize *phpMyAdmin* and build a database locally
+- Utilize *MySQL Workbench* and build a database locally
 - Create a new user and database
 - Import tables using a `.sql` file
 - Explain how and why data is split into related tables

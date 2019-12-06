@@ -13,5 +13,5 @@ Objectives
 - Describe the difference between the four types of joins: inner, left outer, right outer, and full outer
 - Write queries using joins
 - Utilize foreign keys
-- Explain the similarities between Python objects and database tables
+- Explain the similarities between Java objects and database tables
 - Create tables with an understanding of one-to-many relationships
