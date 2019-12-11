@@ -7,7 +7,6 @@ Goals
 Objectives
 ----------
 
-- Use some basic Bootstrap classes to improve the look and feel of your application
 - Use the Intelli-J "Generate" feature to quickly produce boilerplate code
 - Explain what *refactoring* is
 - Describe what the *Model* part of MVC is used for
