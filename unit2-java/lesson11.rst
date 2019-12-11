@@ -10,9 +10,8 @@ Goals
 Objectives
 ----------
 
-- Use some basic Bootstrap classes to improve the look and feel of your application
-- Emphasize how commonplace refactoring is
 - Describe what the *model* part of MVC is used for
+- Emphasize how commonplace refactoring is
 - Differentiate between what kind of functionality should be handled by the model versus the controller
 - Describe what model binding does, what its benefits are, and how to use it
 - Explain why we should create a default constructor for all of our classes

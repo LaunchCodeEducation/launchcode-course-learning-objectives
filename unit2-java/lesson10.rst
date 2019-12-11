@@ -4,29 +4,27 @@ Unit 2 (Java) - Lesson 10 Learning Objectives
 Goals
 -----
 
-- Understand what exceptions are, how to use them and interpret them
-- Understand the role of Gradle in a Spring Boot project
+- Understand the role of views in an MVC application
+- Use Thymeleaf to render views in Spring Boot 
+- Use Bootstrap to improve the look and feel of views
 
 Objectives
 ----------
 
-Exceptions 
-^^^^^^^^^^
-
-- Review what exception objects are
-- Remind students that they have already seen exceptions in Java
-- Discuss when to use exceptions (unexpected situations, scenarios we do not want to handle ourselves)
-- Describe using exceptions to communicate issues to programmers, not users
-- Discuss the use of checked vs. unchecked exceptions
-- Discuss how to throw an exception in Java
-- Summarize some common built-in exceptions Java
-- Describe passing exceptions in Java, when do they stop a program
-- Demonstrate ``try/catch`` statements in Java
-
-Gradle
-^^^^^^
-
-- Discuss Gradle's role in the Spring Boot framework
-- Review the major tasks Gradle manages
-- Review the sections of the ``build.gradle`` file (eg. repositories, dependencies: implementation, development-only, test implementation)
-- Differentiate the roles of Gradle and Maven
+- Understand templates as the *View* portion of MVC
+- Add the Thymeleaf dependency to ``build.gradle``
+- Identify the default template location for Spring Boot projects
+- Create new Templates in IntelliJ
+- Use best practices for organizing templates and request mappings
+- Pass data from controllers to views using a Spring-provided instance of ``Model``
+- Reference attribute values in templates using ``${ }``
+- Use ``th:text`` to dynamically populate the contents of an HTML element
+- Explain what it means for Thymeleaf to be a "natural" template system 
+- Iterate through ``ArrayList`` and ``HashMap`` collections using ``th:each`` syntax in conjunction with a ``th:block`` tag
+- Conditionally display data using ``th:if`` and ``th:unless``
+- Create a Thymeleaf file template in IntelliJ
+- Define template fragments using ``th:fragment`` and insert template fragments using ``th:replace``
+- Include static resources such as CSS and JavaScript files using ``th:src`` and ``th:href``
+- Create a form (in Thymeleaf) and form handler (in a controller class)
+- Include Bootstrap CSS and JS files from a CDN
+- Apply commonly-used Bootstrap class to elements, including ``.container``, ``.form-group``, ``.form-control``, ``.btn``, ``.btn-*``, ``.table``, ``table-striped``
