@@ -24,7 +24,7 @@ IDE Features
 - Understand how IntelliJ uses Gradle to carry out tasks like compiling and running code
 - Understand how IntelliJ flags compiler warnings and errors
 - Understand the strengths and limitations of the Quick Fixes tool to resolve compiler errors
-- User refactoring tools to efficiently improve and change code
+- Use refactoring tools to efficiently improve and change code
 - Use embedded tools: 
    - Terminal
    - Version Control

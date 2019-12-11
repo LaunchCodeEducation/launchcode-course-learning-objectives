@@ -6,6 +6,7 @@ Goals
 
 - Understand the role of views in an MVC application
 - Use Thymeleaf to render views in Spring Boot 
+- Use Bootstrap to improve the look and feel of views
 
 Objectives
 ----------
@@ -25,3 +26,5 @@ Objectives
 - Define template fragments using ``th:fragment`` and insert template fragments using ``th:replace``
 - Include static resources such as CSS and JavaScript files using ``th:src`` and ``th:href``
 - Create a form (in Thymeleaf) and form handler (in a controller class)
+- Include Bootstrap CSS and JS files from a CDN
+- Apply commonly-used Bootstrap class to elements, including ``.container``, ``.form-group``, ``.form-control``, ``.btn``, ``.btn-*``, ``.table``, ``table-striped``
