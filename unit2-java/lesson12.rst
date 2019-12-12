@@ -4,14 +4,20 @@ Unit 2 (Java) - Lesson 12 Learning Objectives
 Goals
 -----
 
+- Validate form submission data using annotations and model binding
+- Use enum types to represent categories of related objects
+
 Objectives
 ----------
 
-- Use validation on your models
-- Describe how to use the Java Validation API annotations
-- Explain how we can validate bound model data in the controller and how the annotations we use in the controller relate to the validation annotations we use in the model class
+- Use Java Validation API annotations (from ``javax.validation.constraints``) on model classes, including ``@Min``, ``@Max``, ``@Size``, ``@Email``, ``@NotBlank``, and ``@NotNull``
+- Use ``@Valid`` on model objects in a controller to check for validation errors
+- Explain how and when Spring validates model objects that are bound during a request
 - Display error messages in the view
-- Use the Thymeleaf ``th:object`` tag in a form
-- Explain what *enum types* are and when you would want to use them
-- Use an enum type and then represent that data in a ``<select>`` element.
-- Explain the difference between these syntaxes in Thymeleaf: ``*{}`` and ``${}``
+- Use the Thymeleaf ``th:object`` tag to bind an object to a form
+- Use ``th:field`` to auto-generate field settings
+- Use ``th:errors`` to display field-specific error messages 
+- Explain the difference between ``*{}`` and ``${}`` in Thymeleaf
+- Explain what enum types are and when they should be used
+- Create enums with custom properties
+- Represent enum data in a view using a ``<select>`` element
