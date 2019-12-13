@@ -34,3 +34,4 @@ IDE Features
    - Import package (``alt+enter``)
 - Track TODOs using ``// TODO`` and the *TODO* pane
 - View class structure using the *Structure* pane
+- Use the Intelli-J "Generate" feature to quickly produce boilerplate code
