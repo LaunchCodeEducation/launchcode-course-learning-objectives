@@ -7,11 +7,11 @@ Goals
 Objectives
 ----------
 
-- Explain what relational databases are used for and what SQL is
+- Explain what relational databases are used for and what SQL is.
+- Explain what a table is.
 - Perform CRUD (Create, Read, Update, Delete) operations using SQL queries
 - Explain what joins are used for
 - Describe the difference between the four types of joins: inner, left outer, right outer, and full outer
-- Write queries using joins
-- Utilize foreign keys
-- Explain the similarities between Java objects and database tables
-- Create tables with an understanding of one-to-many relationships
+- Write simple queries using joins
+- Import tables using a `.sql` file and *MySQL Workbench*
+- Utilize *MySQL Workbench* and build a database locally
