@@ -7,11 +7,11 @@ Goals
 Objectives
 ----------
 
-- Describe the main features of a RESTful web service
-- Describe the usage of HTTP methods in a RESTful web service
-- Describe the URL format for a RESTful web service
-- Describe HTTP status code usage in REST
-- Explain what a resource is
-- Explain how resource formats are related to requests
-- Use and design RESTful URLs, including nested resources and query/filtering parameters
+- Describe the many-to-many relationship and give an example of when this may be a good way to represent data in your database
+- Explain what a join table is and how it is used
+- Define what a composite key is
+- Build model classes that enable persistent many-to-many relationships
+- Use the ``@ManyToMany`` annotation
+- Work with many-to-many relationships in the view and controller
+- Push the changes you make to objects in your program to the database
 
