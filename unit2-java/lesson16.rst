@@ -23,5 +23,8 @@ Objectives
    - ``@OneToMany``
    - ``@JoinColumn``
    - ``@ManyToOne``
-- Explain what a data-access object (DAO) is and how it functions
+- Explain why entity classes need no-arg constructors 
+- Create repository interfaces extending ``CrudRepository``
+- Explain how repositories enable data access
+- Use common ``CrudRepository`` methods: ``delete``, ``deleteById``, ``findAll``, ``findById``, ``save``
 - Understand how Spring Data, JPA, and Hibernate work together to fully implement ORM in Spring Boot 
