@@ -4,13 +4,27 @@ Unit 2 (Java) - Lesson 16 Learning Objectives
 Goals
 -----
 
+- Understand how object-relational mapping allows object-oriented web applications to store data in relational databases
+- Implement ORM with one-to-one and one-to-many relationships in Spring Boot
+
 Objectives
 ----------
 
-- Describe the many-to-many relationship and give an example of when this may be a good way to represent data in your database
-- Explain what a join table is and how it is used
-- Define what a composite key is
-- Build model classes that enable persistent many-to-many relationships
-- Use the ``@ManyToMany`` annotation
-- Work with many-to-many relationships in the view and controller
-- Push the changes you make to objects in your program to the database
+- Explain what object-relational mapping refers to
+- Describe what a data layer is and how it is used in ORM
+- Describe the one-to-many relationship
+- Use the following annotations and describe what they accomplish:
+   - ``@Entity``
+   - ``@Id``
+   - ``@GeneratedValue``
+   - ``@Autowired``
+   - ``@Repository``
+   - ``@Transactional`` 
+   - ``@OneToMany``
+   - ``@JoinColumn``
+   - ``@ManyToOne``
+- Explain why entity classes need no-arg constructors 
+- Create repository interfaces extending ``CrudRepository``
+- Explain how repositories enable data access
+- Use common ``CrudRepository`` methods: ``delete``, ``deleteById``, ``findAll``, ``findById``, ``save``
+- Understand how Spring Data, JPA, and Hibernate work together to fully implement ORM in Spring Boot 
