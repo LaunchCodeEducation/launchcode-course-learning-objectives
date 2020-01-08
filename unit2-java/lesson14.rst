@@ -16,5 +16,5 @@ Objectives
 - Create tables with an understanding of one-to-many relationships
 - Perform complex SQL queries with joins and subqueries
 - Import table data with *MySQL Workbench*
-- Write simple queries using left, right, and full joins
+- Write queries using left, right, and full joins
 
