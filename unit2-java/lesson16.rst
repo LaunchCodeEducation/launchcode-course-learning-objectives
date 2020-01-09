@@ -5,7 +5,7 @@ Goals
 -----
 
 - Understand how object-relational mapping allows object-oriented web applications to store data in relational databases
-- Implement ORM with one-to-one and one-to-many relationships in Spring Boot
+- Implement ORM for individual, non-related entities in Spring Boot
 
 Objectives
 ----------
