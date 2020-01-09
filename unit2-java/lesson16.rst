@@ -12,16 +12,10 @@ Objectives
 
 - Explain what object-relational mapping refers to
 - Describe what a data layer is and how it is used in ORM
-- Describe the one-to-many relationship
 - Use the following annotations and describe what they accomplish:
    - ``@Entity``
    - ``@Id``
    - ``@GeneratedValue``
    - ``@Autowired``
    - ``@Repository``
-   - ``@Transactional`` 
-   - ``@OneToMany``
-   - ``@JoinColumn``
-   - ``@ManyToOne``
-- Explain what a data-access object (DAO) is and how it functions
 - Understand how Spring Data, JPA, and Hibernate work together to fully implement ORM in Spring Boot 
