@@ -5,24 +5,21 @@ Goals
 -----
 
 - Understand how object-relational mapping allows object-oriented web applications to store data in relational databases
-- Implement ORM with one-to-one and one-to-many relationships in Spring Boot
+- Implement ORM for individual, non-related entities in Spring Boot
 
 Objectives
 ----------
 
-- Explain what object-relational mapping refers to
-- Describe what a data layer is and how it is used in ORM
-- Describe the one-to-many relationship
+- Explain what object-relational mapping means
+- Describe what a data layer is, and how it is used in ORM
 - Use the following annotations and describe what they accomplish:
+
    - ``@Entity``
    - ``@Id``
    - ``@GeneratedValue``
    - ``@Autowired``
    - ``@Repository``
-   - ``@Transactional`` 
-   - ``@OneToMany``
-   - ``@JoinColumn``
-   - ``@ManyToOne``
+   
 - Explain why entity classes need no-arg constructors 
 - Create repository interfaces extending ``CrudRepository``
 - Explain how repositories enable data access
