@@ -5,7 +5,7 @@ Goals
 -----
 
 - Understand the structure of RESTful APIs
-- Understand the advantages using REST
+- Understand the advantages of using REST
 
 Objectives
 ----------
