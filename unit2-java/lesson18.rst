@@ -4,6 +4,9 @@ Unit 2 (Java) - Lesson 18 Learning Objectives
 Goals
 -----
 
+- Understand the structure of RESTful APIs
+- Understand the advantages of using REST
+
 Objectives
 ----------
 
@@ -17,3 +20,4 @@ Objectives
 - Explain how content negotiation works, and which HTTP headers are necessary for this
 - Explain idempotence in REST
 - Explain statelessness in REST
+- Create RESTful endpoints that return JSON, using ``@RestController``
