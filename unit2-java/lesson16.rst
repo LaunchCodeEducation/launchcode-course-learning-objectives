@@ -10,14 +10,16 @@ Goals
 Objectives
 ----------
 
-- Explain what object-relational mapping refers to
-- Describe what a data layer is and how it is used in ORM
+- Explain what object-relational mapping means
+- Describe what a data layer is, and how it is used in ORM
 - Use the following annotations and describe what they accomplish:
+
    - ``@Entity``
    - ``@Id``
    - ``@GeneratedValue``
    - ``@Autowired``
    - ``@Repository``
+   
 - Explain why entity classes need no-arg constructors 
 - Create repository interfaces extending ``CrudRepository``
 - Explain how repositories enable data access

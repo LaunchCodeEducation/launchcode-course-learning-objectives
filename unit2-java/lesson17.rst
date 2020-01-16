@@ -10,16 +10,17 @@ Goals
 Objectives
 ----------
 
-One-to-many Relationships
+One-to-Many Relationships
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Describe the one-to-many relationship
+- Describe the one-to-many relationship as it relates to objects
 - Use the following annotations and describe what they accomplish:
+
    - ``@OneToMany``
    - ``@JoinColumn``
    - ``@ManyToOne``
 
-Many-to-many Relationships
+Many-to-Many Relationships
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Describe many-to-many relationships
