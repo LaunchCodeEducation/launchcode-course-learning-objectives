@@ -16,8 +16,6 @@ Objectives
 - Describe HTTP status code usage in REST
 - Explain what a resource is
 - Explain how resource formats are related to requests
-- Use and design RESTful URLs, including nested resources and query/filtering parameters
+- Use and design RESTful URLs
 - Explain how content negotiation works, and which HTTP headers are necessary for this
-- Explain idempotence in REST
-- Explain statelessness in REST
 - Create RESTful endpoints that return JSON, using ``@RestController``
