@@ -4,6 +4,9 @@ Unit 2 (Java) - Lesson 19 Learning Objectives
 Goals
 -----
 
+- Understand the basic concepts of authentication
+- Implement basic authentication using Spring Security
+
 Objectives
 ----------
 
@@ -11,6 +14,6 @@ Objectives
 - Explain what a one-way hash is, and why it presents greater security for storing sensitive user data
 - Describe the characteristics of a good one-way hash function
 - Write code that uses a provided hash function to hash sensitive data
-- Use salting to increase the security of a one-way hash
-- Verify passwords by comparing hash values
-- Describe how hashing can be used to prevent cookie tampering
+- Describe how one-way hashes allow for passwords to be compared
+- Describe the general authentication flow for a web app
+- Use Spring Security to enable basic authentication in a web app
