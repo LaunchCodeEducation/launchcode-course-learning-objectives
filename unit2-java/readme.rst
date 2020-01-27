@@ -32,10 +32,10 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Hello Spring, HTTP, MVC
      - `objectives <lesson08.rst>`__
    * - 9
-     - Views and Thymeleaf templates
+     - Gradle; exceptions
      - `objectives <lesson09.rst>`__
    * - 10
-     - Java development and tooling; exceptions
+     - Views and Thymeleaf templates
      - `objectives <lesson10.rst>`__
    * - 11
      - Model classes, model binding
@@ -44,26 +44,26 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Model validation
      - `objectives <lesson12.rst>`__
    * - 13
-     - SQL, part 1
+     - 
      - `objectives <lesson13.rst>`__   
    * - 14
-     - SQL, part 2
+     - SQL, part 1
      - `objectives <lesson14.rst>`__   
    * - 15
-     - Object-relational mapping, part 1
+     - SQL, part 2
      - `objectives <lesson15.rst>`__
    * - 16
-     - Object-relational mapping, part 2
+     - Object-relational mapping, part 1
      - `objectives <lesson16.rst>`__
    * - 17
-     - RESTful Web Services, part 1
+     - Object-relational mapping, part 2
      - `objectives <lesson17.rst>`__
    * - 18
-     - RESTful Web Services, part 2
+     - Object-relational mapping, part 3
      - `objectives <lesson18.rst>`__ 
    * - 19
-     - Sessions, cookies, hashing and authentication
+     - Authentication and hashing
      - `objectives <lesson19.rst>`__   
    * - 20
-     - Authentication with Spring Security
+     - RESTful web services
      - `objectives <lesson20.rst>`__   
