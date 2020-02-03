@@ -12,14 +12,14 @@ Objectives
 ----------
 
 Compiling and Running C# Programs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Install and configure Visual Studio and the .NET SDK
 - Create and run a "Hello World!" console app within Visual Studio
 - Import a C# project from GitHub into Visual Studio
 
 Data Types in C#
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 - Explain the difference between static and dynamic typing
 - Write comments in C#
@@ -30,7 +30,7 @@ Data Types in C#
 - Follow proper C# naming conventions
 
 Writing Simple C# Programs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Utilize basic ``String`` methods in C#
 - Perform standard input and output using the ``Console.ReadLine`` class and ``Console.WriteLine``
