@@ -1,5 +1,5 @@
-LC101 Goals and Objectives - Unit 2 (Java)
-==========================================
+LC101 Goals and Objectives - Unit 2 (C#)
+========================================
 
 .. list-table:: Objectives by Lesson
    :header-rows: 1
@@ -8,7 +8,7 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Topics
      - Objectives
    * - 1
-     - Introduction to Java; data types and variables
+     - Introduction to C#; data types and variables
      - `objectives <lesson01.rst>`__
    * - 2
      - Control flow; collections
@@ -20,7 +20,7 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Objects and classes, cont.
      - `objectives <lesson04.rst>`__
    * - 5
-     - Unit testing with JUnit
+     - Unit testing with MSTest
      - `objectives <lesson05.rst>`__
    * - 6
      - Inheritance
@@ -29,13 +29,13 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Interfaces and Polymorphism
      - `objectives <lesson07.rst>`__
    * - 8
-     - Hello Spring, HTTP, MVC
+     - Hello .NET, HTTP, MVC
      - `objectives <lesson08.rst>`__
    * - 9
-     - Gradle; exceptions
+     - .NET development and tooling; exceptions
      - `objectives <lesson09.rst>`__
    * - 10
-     - Views and Thymeleaf templates
+     - Views and Razor templates
      - `objectives <lesson10.rst>`__
    * - 11
      - Model classes, model binding
@@ -44,7 +44,7 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Model validation
      - `objectives <lesson12.rst>`__
    * - 13
-     - Work Day
+     - WORK DAY
      - `objectives <lesson13.rst>`__   
    * - 14
      - SQL, part 1
@@ -59,11 +59,11 @@ LC101 Goals and Objectives - Unit 2 (Java)
      - Object-relational mapping, part 2
      - `objectives <lesson17.rst>`__
    * - 18
-     - Object-relational mapping, part 3
+     - RESTful web services
      - `objectives <lesson18.rst>`__ 
    * - 19
      - Authentication and hashing
-     - `objectives <lesson19.rst>`__   
+     - `objectives <lesson19.rst>`__  
    * - 20
-     - RESTful web services
+     - ASP.NET Core Identity
      - `objectives <lesson20.rst>`__   
