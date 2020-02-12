@@ -5,4 +5,4 @@ LC101 Goals and Objectives
 
 `Unit 2 (Java) <unit2-java/readme.rst>`__
 
-`Unit 2 (C#) <unit2-c#readme.rst>`__
+`Unit 2 (C#) <unit2-csharp/readme.rst>`__
