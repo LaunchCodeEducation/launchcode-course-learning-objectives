@@ -16,7 +16,7 @@ Control Flow
 
 - Use conditional statements: ``if``, ``if-else``, ``else if``, and ``switch``
 - Explain how **fallthrough** occurs with ``switch`` statements and how to prevent it
-- Use loops: ``for``, ``for-each``, ``while``, and ``do-while``
+- Use loops: ``for``, ``foreach``, ``while``, and ``do-while``
 - Modify the flow of control in loops using ``break`` and ``continue``
 - Explain the difference between ``break`` and ``continue``
 
