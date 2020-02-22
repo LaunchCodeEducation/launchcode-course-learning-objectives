@@ -15,10 +15,11 @@ Objectives
 - Understand the two types of class members: fields and methods
 - Properly use the ``this`` keyword
 - Explain how encapsulation results in better code
-- Explain and properly use the four access modifiers: ``public``, ``private``, ``protected``, and default (package-private, or default access)
+- Explain and properly use the four access modifiers: ``public``, ``private``, ``protected``, ``protected internal``, and ``internal`` (or default access)
 - Explain why fields should almost always be ``private``
 - Explain some of the most common reasons for using getters and setters to expose access to private fields
 - Describe what a property is in C#, and how it is different from a field
+- Explain what code is created by the compiler when you create an auto-implemented property
 - Create and use constructors to properly initialize class instances
 - Describe and use constructor overloading
 - Describe the default constructor, including when and how it will be provided for a given class
@@ -27,12 +28,5 @@ Objectives
 - Reference instance properties within methods
 - Use the Single Responsibility Principle to create small, well-designed classes
 
-Explain and properly use access modifiers
-Explain why fields should almost always be private
-Describe what accessors (getters and setters) are and why they are useful
-Explain what a property is and what code is created by the compiler when you create an auto-implemented property
-Describe what a constructor is and how you can identify it
-Create overloaded constructors
-Use this() to invoke one constructor from within another in the same class
-Utilize static fields and properties (and explain when you would want to)
-Explain what constants are and how to declare them (and what naming convention to use)
+
+
