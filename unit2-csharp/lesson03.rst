@@ -15,7 +15,7 @@ Objectives
 - Understand the two types of class members: fields and methods
 - Properly use the ``this`` keyword
 - Explain how encapsulation results in better code
-- Explain and properly use the four access modifiers: ``public``, ``private``, ``protected``, ``protected internal``, and ``internal`` (or default access)
+- Explain and properly use the five access modifiers: ``public``, ``private``, ``protected``, ``protected internal``, and ``internal`` (or default access)
 - Explain why fields should almost always be ``private``
 - Explain some of the most common reasons for using getters and setters to expose access to private fields
 - Describe what a property is in C#, and how it is different from a field
