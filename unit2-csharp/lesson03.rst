@@ -1,5 +1,5 @@
 Unit 2 (C#) - Lesson 3 Learning Objectives
-============================================
+==========================================
 
 Goals
 -----
@@ -15,10 +15,11 @@ Objectives
 - Understand the two types of class members: fields and methods
 - Properly use the ``this`` keyword
 - Explain how encapsulation results in better code
-- Explain and properly use the four access modifiers: ``public``, ``private``, ``protected``, and default (package-private, or default access)
+- Explain and properly use the five access modifiers: ``public``, ``private``, ``protected``, ``protected internal``, and ``internal`` (or default access)
 - Explain why fields should almost always be ``private``
 - Explain some of the most common reasons for using getters and setters to expose access to private fields
 - Describe what a property is in C#, and how it is different from a field
+- Explain what code is created by the compiler when you create an auto-implemented property
 - Create and use constructors to properly initialize class instances
 - Describe and use constructor overloading
 - Describe the default constructor, including when and how it will be provided for a given class
@@ -26,3 +27,6 @@ Objectives
 - Define and call instance methods of an object
 - Reference instance properties within methods
 - Use the Single Responsibility Principle to create small, well-designed classes
+
+
+
