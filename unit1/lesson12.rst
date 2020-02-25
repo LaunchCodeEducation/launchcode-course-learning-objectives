@@ -30,7 +30,7 @@ HTML
 - Describe what an HTML element is, and how an element is related to a tag
 - Name, describe the purpose of, and use common HTML tags: ``<b>``, ``<em>``, ``<a>``, ``<img>``, ``<br>``, ``<p>``, ``<span>``, ``<div>``, ``<form>``
 - Define HTML attributes and how they are used
-- Describe how whitespace in HTML documents effects rendering
+- Describe how whitespace in HTML documents affects rendering
 - Describe HTML document structure and associated elements: doctype, ``<html>``, ``<head>``, ``<body>``, ``<title>``
 - Write a properly-structured document head.
 - Describe the purpose of and be able to use additional HTML tags: ``<ul>``, ``<ol>``, ``<li>``, ``<table>``
