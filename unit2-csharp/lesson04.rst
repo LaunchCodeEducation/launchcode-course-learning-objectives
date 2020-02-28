@@ -12,8 +12,8 @@ Objectives
 ----------
 
 - Explain and properly use the ``static`` keyword for fields and methods
-- Explain and properly use the ``final`` keyword
-- Create constant fields using ``static final``
+- Explain and properly use the ``readonly`` keyword
+- Create constant fields using ``const``
 - Explain why instance variables may not be referenced within static methods
 - Write a custom ``ToString`` method for a given class
 - Explain the concepts of object identity and equality, and how they differ
