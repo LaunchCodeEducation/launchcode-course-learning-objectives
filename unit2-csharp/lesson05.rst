@@ -27,7 +27,7 @@ Unit Testing in C#
   - Tests should be deterministic- it should not include randomly-generated data,
     nor should it pass part of the time and fail at other times 
   - Tests should be grouped by related class and function
-  - Tests should pass before you code is committed
+  - Tests should pass before your code is committed
   - Tests should not be trivial - ie, unless getters and setters contain 
     specialized behavior, they should not be tested
 
