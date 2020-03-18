@@ -1,5 +1,5 @@
 Unit 2 (C#) - Lesson 7 Learning Objectives
-============================================
+==========================================
 
 Goals
 -----
@@ -18,5 +18,7 @@ Objectives
 - Explain what a default method is and how they may be used with interfaces
 - Use the appropriate interface for collection types depending on the behavior they must exhibit
 - Describe the differences between abstract classes and interfaces
-- Use the ``Comparator.compare()`` method
+- Use some C# provided interfaces: ``IComparer<T>``, ``IEnumerable<T>``, ``IList<T>``, ``IDictionary<TKey, TValue>``
 - Write unit tests that verify interface-based code
+
+
