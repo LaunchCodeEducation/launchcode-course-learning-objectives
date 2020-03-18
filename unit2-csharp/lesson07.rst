@@ -18,7 +18,7 @@ Objectives
 - Explain what a default method is and how they may be used with interfaces
 - Use the appropriate interface for collection types depending on the behavior they must exhibit
 - Describe the differences between abstract classes and interfaces
-- Use some C# provided interfaces: ``IComparer<T>``, ``IEnumerable<T>``, ``IList<T>``, ``Dictionary<TKey, TValue>``
+- Use some C# provided interfaces: ``IComparer<T>``, ``IEnumerable<T>``, ``IList<T>``, ``IDictionary<TKey, TValue>``
 - Write unit tests that verify interface-based code
 
 
