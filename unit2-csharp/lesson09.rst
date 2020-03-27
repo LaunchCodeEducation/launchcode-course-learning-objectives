@@ -1,11 +1,11 @@
 Unit 2 (C#) - Lesson 9 Learning Objectives
-============================================
+==========================================
 
 Goals
 -----
 
 - Understand what exceptions are, how to use them and interpret them
-- Understand the role of Gradle in a Spring Boot project
+- Understand the role of Visual Studio build tools in C#/.NET projects
 
 Objectives
 ----------
@@ -23,10 +23,10 @@ Exceptions
 - Describe passing exceptions in C#, when do they stop a program
 - Demonstrate ``try/catch`` statements in C#
 
-Gradle
-^^^^^^
+Build Tools
+^^^^^^^^^^^
 
-- Discuss Gradle's role in the Spring Boot framework
-- Review the major tasks Gradle manages
-- Review the sections of the ``build.gradle`` file (eg. repositories, dependencies: implementation, development-only, test implementation)
-- Differentiate the roles of Gradle and Maven
+- Discuss what build tools do in the Visual Studio IDE
+- Review the major tasks of MSBuild, including creating the .``csproj`` document
+- Review the sections of the ``.csproj`` file (eg. property groups, item groups)
+- Differentiate the roles of MSBuild and NuGet
