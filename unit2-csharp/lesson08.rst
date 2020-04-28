@@ -16,9 +16,10 @@ Objectives
 - Run an ASP.NET web app in Visual Studio
 - Understand the role of controllers in a C# web app
 - Create and modify controllers to handle different routes and request types
-- Map controller routes with conventional routing
+- Understand how controller routes are mapped with conventional routing
 - Create new controller classes
+- Use attribute routing and attributes on action methods and at a class-level
 - Get data from users via ``GET``, ``POST``, and URL segments
-- Return HTML responses from a controller 
-- Use methods to access query parameters
-- Use attribute routing and attributes like ``[HttpGet]``, ``[HttpPost]``, and ``[Route("path")]`` to map controller routes
+- Use action methods to access query parameters 
+- Return HTML responses from a controller using ``IActionResult`` and ``Content``
+- Use ``[HttpGet]``, ``[HttpPost]``, and ``[Route("path")]`` to map controller routes
