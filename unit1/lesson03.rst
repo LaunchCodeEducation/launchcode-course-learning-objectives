@@ -1,4 +1,4 @@
-Unit 1 - Lesson 4 Learning Objectives
+Unit 1 - Lesson 3 Learning Objectives
 =====================================
 
 Goals
