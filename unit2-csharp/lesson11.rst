@@ -13,7 +13,7 @@ Objectives
 - Describe what the *Model* part of MVC is used for
 - Define what a POCO is
 - Differentiate between what kind of functionality should be handled by the model versus the controller
-- Explain how the var keyword works
+- Explain how the ``var`` keyword works
 - Describe what model binding does, what its benefits are, and how to use it with .NET
 - Describe how to use a unique identifier in a class
 - Use a data layer or service to remove data-storage logic from the controller
