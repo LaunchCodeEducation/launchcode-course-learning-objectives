@@ -5,7 +5,7 @@ Goals
 -----
 
 - Understand the role of views in an MVC application
-- Create views for various controllers in ASP.NET
+- Create views with Razor syntax for various controllers in ASP.NET
 
 Objectives
 ----------
