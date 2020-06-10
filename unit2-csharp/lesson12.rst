@@ -13,7 +13,7 @@ Objectives
 - Describe how ViewModels work and why you would want to use them
 - Use ``asp-for`` and ``asp-validation-for`` in your view to utilize the ViewModel
 - Explain how you can use ViewModels to add a layer of validation
-- Use the ``[Required]`` attribute
+- Use the ``[Required]``, ``[EmailAddress]``, ``[StringLength]``, and ``[Range]`` attributes
 - Display error messages in a view
 - Explain what enum types are and when they should be used
 - Create enums with custom properties
