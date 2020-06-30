@@ -13,3 +13,4 @@ Objectives
 - Describe one-to-many relationships as they relate to objects
 - Properly define model properties so that they enable one-to-many relationships
 - Use the ``DbSet.Include`` method to fetch child objects of entities 
+- Use lambda expressions with ``DbSet.Include`` and similar other methods to filter collections
