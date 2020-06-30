@@ -17,7 +17,6 @@ Many-to-Many Relationships
 - Explain what a join table is and how it is used
 - Explain what a composite key is 
 - Build model classes that enable persistent many-to-many relationships using a join entity
-- Use the ``asp-route-*`` attribute to generate a path parameter 
 - Use the ``DbSet`` methods ``Single`` and ``Where`` filter entity collections
 
 One-to-One Relationships
