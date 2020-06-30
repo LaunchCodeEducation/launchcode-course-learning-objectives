@@ -1,5 +1,5 @@
 Unit 2 (C#) - Lesson 18 Learning Objectives
-=============================================
+============================================
 
 Goals
 -----
@@ -10,19 +10,18 @@ Goals
 Objectives
 ----------
 
-One-to-One Relationships
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-- Describe one-to-one relationships
-- Use ``@OneToOne`` on the owning class to establish such a relationship
-- Use ``cascade = CascadeType.ALL`` to ensure child objects are saved when saving the parent object
-
 Many-to-Many Relationships
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Describe many-to-many relationships
 - Explain what a join table is and how it is used
 - Explain what a composite key is 
-- Build model classes that enable persistent many-to-many relationships
-- Use the ``@ManyToMany`` annotation with ``mappedBy`` to establish bi-directional many-to-many relationships
-- Use data transfer objects (DTOs) to establish relationships between many-to-many entities in a controller
+- Build model classes that enable persistent many-to-many relationships using a join entity
+- Use the ``asp-route-*`` attribute to generate a path parameter 
+- Use the ``DbSet`` methods ``Single`` and ``Where`` filter entity collections
+
+One-to-One Relationships
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Describe one-to-one relationships
+- Build model classes that enable persistent one-to-one relationships
