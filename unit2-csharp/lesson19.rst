@@ -5,7 +5,7 @@ Goals
 -----
 
 - Understand the basic concepts of authentication
-- Implement basic authentication in Spring using request filters
+- Implement basic authentication in ASP.NET
 
 Objectives
 ----------
@@ -16,4 +16,4 @@ Objectives
 - Write code that uses a provided hash function to hash sensitive data
 - Describe how one-way hashes allow for passwords to be compared
 - Describe the general authentication flow for a web app
-- Use request filters to enable basic authentication in a Spring app
+- Use authentication handlers to enable basic authentication in an ASP.NET app
