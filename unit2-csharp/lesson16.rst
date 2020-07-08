@@ -12,16 +12,9 @@ Objectives
 
 - Explain what object-relational mapping means
 - Describe what a data layer is, and how it is used in ORM
-- Use the following annotations and describe what they accomplish:
-
-   - ``@Entity``
-   - ``@Id``
-   - ``@GeneratedValue``
-   - ``@Autowired``
-   - ``@Repository``
-   
-- Explain why entity classes need no-arg constructors 
-- Create repository interfaces extending ``CrudRepository``
-- Explain how repositories enable data access
-- Use common ``CrudRepository`` methods: ``delete``, ``deleteById``, ``findAll``, ``findById``, ``save``
-- Understand how Spring Data, JPA, and Hibernate work together to fully implement ORM in Spring Boot 
+- Extend ``DbContext`` to create a data layer
+- Configure an ASP.NET app to connect to a MySQL database using ``appsettings.json`` and the ``ConfigureServices`` method of ``Startup.cs``
+- Properly configure the ``Id`` field of a model class to function as a primary key field
+- Use common ``DbSet`` methods: ``Add``, ``Remove``, ``ToList``, and ``Find``
+- Use the ``SaveChanges`` method of  ``DbContext``, and understand why it is important
+- Create and run migrations using the EF Core CLI tools
