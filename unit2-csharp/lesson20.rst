@@ -18,4 +18,3 @@ Objectives
 - Explain how resource formats are related to requests
 - Use and design RESTful URLs
 - Explain how content negotiation works, and which HTTP headers are necessary for this
-- Create RESTful endpoints that return JSON, using ``@RestController``

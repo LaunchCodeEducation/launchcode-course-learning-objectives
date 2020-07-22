@@ -58,12 +58,12 @@ LC101 Goals and Objectives - Unit 2 (C#)
    * - 17
      - Object-relational mapping, part 2
      - `objectives <lesson17.rst>`__
-   * - 18
-     - RESTful web services
-     - `objectives <lesson18.rst>`__ 
+	* - 18
+     - Object-relational mapping, part 3
+     - `objectives <lesson18.rst>`__
    * - 19
-     - Authentication and hashing
-     - `objectives <lesson19.rst>`__  
-   * - 20
-     - ASP.NET Core Identity
-     - `objectives <lesson20.rst>`__   
+     - Authentication
+     - `objectives <lesson19.rst>`__   
+	* - 20
+     - RESTful web services
+     - `objectives <lesson20.rst>`__ 
