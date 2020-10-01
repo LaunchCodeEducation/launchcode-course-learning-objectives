@@ -19,6 +19,3 @@ LC101 Goals and Objectives - Data Structures and Algorithm Analysis
    * - 4
      - Data Structures
      - `objectives <lesson04.rst>`__
-   * - 5
-     - Optimizing Solutions
-     - `objectives <lesson05.rst>`__
