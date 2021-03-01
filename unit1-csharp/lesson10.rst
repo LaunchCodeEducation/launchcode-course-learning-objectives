@@ -18,4 +18,8 @@ Objectives
 - Describe and use abstract classes and abstract methods
 - Explain how variable and parameter declaration relates to inheritance (i.e. how inheritance enables polymorphic behavior)
 - Use basic class diagrams to visualize and design class relationships
+<<<<<<< HEAD
 - Write unit tests to verify C# code that uses inheritance
+=======
+- Write unit tests to verify C# code that uses inheritance
+>>>>>>> lesson12-14

@@ -26,6 +26,10 @@ HTML
 - Describe the purpose of and be able to use additional HTML tags: ``<ul>``, ``<ol>``, ``<li>``, ``<table>``
 - Write HTML comments
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> lesson12-14
 CSS
 ^^^
 
