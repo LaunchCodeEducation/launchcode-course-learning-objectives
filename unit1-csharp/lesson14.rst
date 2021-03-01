@@ -43,4 +43,4 @@ Forms
 - Use the ``name`` attribute to identify inputs in the submitted data
 - Understand and describe form submission
 - Use event handlers to validate form data
-- Know how to cancel form submission 
+- Know how to cancel form submission

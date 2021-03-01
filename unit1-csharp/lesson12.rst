@@ -5,9 +5,10 @@ Goals
 -----
 
 - Understand what the terminal is and how to use it.
-- Create static HTML pages using a variety of different tags inside the body.
 - Create an account on Github and create hello world repository.
 - Understand what Git is and why programmers use it.
+- Work with Git to version control personal work.
+- Learn how Git can be used to manage teamwork.
 
 Objectives
 ----------
@@ -22,20 +23,6 @@ Terminal
 - Understand how to run programs in the terminal.
 - Understand how to stop processes that are running in the terminal.
 
-HTML
-^^^^
-
-- Know what HTML stands for
-- Describe the components of HTML tag structure
-- Describe what an HTML element is, and how an element is related to a tag
-- Name, describe the purpose of, and use common HTML tags: ``<b>``, ``<em>``, ``<a>``, ``<img>``, ``<br>``, ``<p>``, ``<span>``, ``<div>``, ``<form>``
-- Define HTML attributes and how they are used
-- Describe how whitespace in HTML documents affects rendering
-- Describe HTML document structure and associated elements: doctype, ``<html>``, ``<head>``, ``<body>``, ``<title>``
-- Write a properly-structured document head.
-- Describe the purpose of and be able to use additional HTML tags: ``<ul>``, ``<ol>``, ``<li>``, ``<table>``
-- Write HTML comments
-
 Git
 ^^^
 
@@ -49,3 +36,13 @@ Git
 - Clone a project from a remote Git repository
 - Explain the two Git file statuses: tracked and untracked
 - Explain what types of changes should be within a commit
+- Explain some common use cases for branches
+- Identify the master branch as the default branch for most projects
+- Create a new Git branch
+- Checkout a branch
+- Stash and un-stash changes making up partially-completed work
+- Merge one branch into another
+- Describe what happens when, during a merge, there are conflicting changes in the two branches
+- Describe the common branching strategies of feature branches and long-running branches
+- Describe what a remote repository is
+- Create and push to a remote repository from a local repository
