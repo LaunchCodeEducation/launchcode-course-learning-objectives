@@ -11,6 +11,18 @@ Goals
 Objectives
 ----------
 
+Data Types in C#
+^^^^^^^^^^^^^^^^
+
+- Explain the difference between static and dynamic typing
+- Write comments in C#
+- Name the numeric types in C#
+- Declare variables in C#
+- Distinguish between value and reference types
+- Parse data types
+- Follow proper C# naming conventions
+
+
 Data: Variables and Values
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -33,3 +45,10 @@ Data: Variables and Values
 - Evaluate expressions using compound assignment operators: ``+=``, ``-=``, ``*=``, ``/=``
 - Explain what the modulus operator ``%`` does
 - Evaluate an expression using the rules of precedence for the order of operations
+
+Writing Simple C# Programs
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Utilize basic ``String`` methods in C#
+- Perform standard input and output using the ``Console.ReadLine`` class and ``Console.WriteLine``
+- Create a class with a ``main`` method
