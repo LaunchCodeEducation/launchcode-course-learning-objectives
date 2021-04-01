@@ -41,5 +41,5 @@ Arrays
 - Describe what it means for arrays to be mutable
 - Understand what happens when asking for an element at index at which no element exists
 - Use common array methods: ``concat``, ``join``, ``split``, ``push``, ``pop``, ``shift``, ``unshift``, ``slice``, ``reverse``, ``sort``, ``indexOf``
-- Convert character arrays to strings using `.join(''s)`
+- Convert character arrays to strings using `.join('')`
 - Convert strings to characters arrays using `.split('')`
