@@ -1,44 +1,48 @@
-Unit 1 - Lesson 7 Learning Objectives
-=====================================
+Unit 1 (C#) - Lesson 7 Learning Objectives
+==========================================
 
 Goals
 -----
 
-- Create and use collections in C#
-- Use the ``Math`` module for common mathematical operations
-- Create and work with common collections objects
-- Understand how to choose a collection type for a given objects
-- Use basic control flow structures 
+- Understand what the terminal is and how to use it.
+- Create an account on Github and create hello world repository.
+- Understand what Git is and why programmers use it.
+- Work with Git to version control personal work.
+- Learn how Git can be used to manage teamwork.
 
 Objectives
 ----------
 
-C# Collections
-^^^^^^^^^^^^^^
+Terminal
+^^^^^^^^
 
-- Describe what a data structure is and why it is useful
-- Create ``List``, and ``Dictionary`` objects using ``new``
-- Articulate the differences in the above two structures
-- Articulate the differences between ``List`` and ``Array``
-- Use common ``List`` and ``Dictionary`` methods and properties
-- Iterate through the data structures
-- Format strings and escape characters
-- Use the ``StringBuilder`` class
+- Know what a terminal is and why programmers use it.
+- Understand how the filesystem works and how to write a file path.
+- Be able to navigate to specific files and folders.
+- Understand how to use basic commands: ``ls``, ``cd``, ``pwd``, ``mkdir``, ``rm``, and ``touch``.
+- Understand how to run programs in the terminal.
+- Understand how to stop processes that are running in the terminal.
 
+Git
+^^^
 
-Control Flow with Collections
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- Use conditional statements: ``if``, ``if-else``, ``else if``, and ``switch``
-- Explain how **fallthrough** occurs with ``switch`` statements and how to prevent it
-- Use loops: ``for``, ``foreach``, ``while``, and ``do-while``
-- Modify the flow of control in loops using ``break`` and ``continue``
-- Explain the difference between ``break`` and ``continue``
-
-
-The ``Math`` Object
-^^^^^^^^^^^^^^^^^^^
-
-- Use ``Math.PI`` to obtain the value of the mathematical constant Pi
-- Understand and properly use common ``Math`` functions: ``Round``, ``Floor``, ``Ceiling``, ``Sqrt``, ``Truncate``, ``Abs``
-- Understand and properly use Random Class random number generator
+- Describe the main functionality provided by a version control system (VCS)
+- Describe the practical applications of this functionality: revision history, collaboration, backup
+- Explain what a repository is
+- Explain what a commit is
+- Describe the basic commit flow and commands: status, add, commit, log
+- Initialize a new Git repository
+- Commit to a local repository
+- Clone a project from a remote Git repository
+- Explain the two Git file statuses: tracked and untracked
+- Explain what types of changes should be within a commit
+- Explain some common use cases for branches
+- Identify the master branch as the default branch for most projects
+- Create a new Git branch
+- Checkout a branch
+- Stash and un-stash changes making up partially-completed work
+- Merge one branch into another
+- Describe what happens when, during a merge, there are conflicting changes in the two branches
+- Describe the common branching strategies of feature branches and long-running branches
+- Describe what a remote repository is
+- Create and push to a remote repository from a local repository

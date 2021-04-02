@@ -29,28 +29,28 @@ Web Dev Unit 1 (C#) Goals and Objectives
      - Dictionaries
      - `objectives <lesson06.rst>`__
    * - 7
-     - Exceptions, local development, using the debugger
+     - Git basics, Terminal, Git branches and remotes
      - `objectives <lesson07.rst>`__
    * - 8
-     - Classes and objects
+     - Exceptions, Local Development
      - `objectives <lesson08.rst>`__
    * - 9
-     - Classes and objects, part 2
+     - Classes and objects
      - `objectives <lesson09.rst>`__
    * - 10
-     - Unit testing, TDD
-     -  `objectives <lesson10.rst>`__
+     - Classes and objects, part 2
+     - `objectives <lesson10.rst>`__
    * - 11
-     - Inheritance
-     -  `objectives <lesson11.rst>`__
+     - Unit testing, TDD
+     - `objectives <lesson11.rst>`__
    * - 12
-     - Interfaces and polymorphism
+     - Inheritance
      - `objectives <lesson12.rst>`__
    * - 13
-     - HTML, Git basics, Terminal
+     - Interfaces and polymorphism
      - `objectives <lesson13.rst>`__
    * - 14
-     - CSS, Git branches and remotes
+     - HTML + CSS
      - `objectives <lesson14.rst>`__   
    * - 15
      - HTTP and forms

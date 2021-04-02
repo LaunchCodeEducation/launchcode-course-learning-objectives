@@ -1,5 +1,5 @@
-Unit 1 - Pre-work Learning Objectives
-=====================================
+Unit 1 (C#) - Pre-work Learning Objectives
+==========================================
 
 Goals
 -----
