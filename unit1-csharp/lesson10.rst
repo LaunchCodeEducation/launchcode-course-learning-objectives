@@ -1,25 +1,25 @@
-Unit 2 (C#) - Lesson 10 Learning Objectives
-==========================================
+Unit 1 (C#) - Lesson 10 Learning Objectives
+===========================================
 
 Goals
 -----
 
-- Understand the role of object-oriented inheritance to enable effective code reuse.
-- Effectively use C#'s inheritance tools to build clean, reusable code.
+- Use access modifiers to customize fields and methods
+- Override built-in methods such as ``ToString`` and ``Equals``
+- Understand equality and sameness in C#
 
 Objectives
 ----------
 
-- Use the ``:`` syntax to allow one class to inherit from another
-- Explain which fields and methods are inherited by a class extension, based on C#'s rules and taking into account access modifiers
-- Call a parent class constructor from a child class constructor
-- Override methods when extending a class
-- Describe the role of the ``Object`` class in each class' hierarchy
-- Describe and use abstract classes and abstract methods
-- Explain how variable and parameter declaration relates to inheritance (i.e. how inheritance enables polymorphic behavior)
-- Use basic class diagrams to visualize and design class relationships
-<<<<<<< HEAD
-- Write unit tests to verify C# code that uses inheritance
-=======
-- Write unit tests to verify C# code that uses inheritance
->>>>>>> lesson12-14
+- Explain and properly use the ``static`` keyword for fields and methods
+- Explain and properly use the ``readonly`` keyword
+- Create constant fields using ``const``
+- Explain why instance variables may not be referenced within static methods
+- Write a custom ``ToString`` method for a given class
+- Explain the concepts of object identity and equality, and how they differ
+- Explain and properly use ``Equals`` to determine when two objects are equal
+- Explain the behavior of ``==`` with respect to objects in C#
+- Describe and implement the best practices for overriding ``Equals`` within a class
+- Use the ``GetType`` method to determine the class of an object
+- Explain when ``GetHashCode`` should be overridden within a class
+- Use Visual Studio code generation tools to generate well-structured ``Equals`` and ``GetHashCode`` methods
