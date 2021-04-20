@@ -22,6 +22,9 @@ Web Dev Unit 1 (C#) Goals and Objectives
    * - 4
      - Iteration
      - `objectives <lesson04.rst>`__
+   * - Assignment 1
+     - Candidate Testing
+     - `objectives <assignment01.rst>`__ 
    * - 5
      - Lists
      - `objectives <lesson05.rst>`__
