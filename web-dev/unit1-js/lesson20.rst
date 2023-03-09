@@ -1,10 +1,15 @@
-At the end of class 3 students will be able to create a Angular application that can pull data from an external API using fetch.
+Unit 1 - Lesson 20 Learning Objectives
+======================================
 
-Class 3
+Goals
+-----
 
-* Attribute directives alter the behavior of HTML elements.
-* Many attribute directives can be applied to one host element.
-* Alter element style using style binding `<button [style.color]="isSpecial ? 'red': 'green'">`
-* Use property binding such as `[class.warning]="isWarning"` to change css class property of an element.
-* Use property binding to disable inputs `<input [disabled]="disabled"/>`
-* In a component use `fetch` to make a request to an API and show that data in a component
+At the end of class 3 students will be able to create a React application that can handle form submission and manipulate the DOM.
+
+Objectives
+----------
+
+- Understand what state is in React
+- Be able to render a form
+- Use `handleSubmit` and `handleChange` to appropriately update the state upon form submission
+- Use refs to manipulate the DOM

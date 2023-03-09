@@ -4,18 +4,16 @@ Unit 1 - Lesson 17 Learning Objectives
 Goals
 -----
 
-- Understand the difference between JavaScript and TypeScript
-- Be able to declare and use variables in TypeScript
+- Be able to differentiate between JavaScript and its variants.
+- Understand the various use cases for specialized ES6 syntax.
 
 Objectives
 ----------
 
-- Understand what TypeScript is and its current uses.
-- Be able to explain the differences between static and dynamic typing.
-- Declare and use variables of ``number``, ``string``, and ``boolean`` types.
-- Declare and use arrays and tuples.
-- Properly use ``export`` and ``import``.
-- Declare and use classes and interfaces in TypeScript.
-- Be able to distinguish between classes and interfaces in TypeScript.
-- Be able to use the ``implements`` keyword to make classes implement interfaces.
+- Understand what ES6 stands for.
+- Be able to explain the differences between general syntax and specialized ES6 syntax.
+- Be able to list JavaScript variants and their respective use cases.
+  - In particular, what is JSX and why is it used for React.
+- Be able to differentiate between dynamic and static typing.
+
 
