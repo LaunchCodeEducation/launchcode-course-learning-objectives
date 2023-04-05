@@ -11,6 +11,7 @@ Objectives
 
 - Be able to incorporate ES6 expressions into HTML rendering.
 - Be able to use conditional rendering to display or not display certain elements. Students will be able to use the following syntax:
+
   - `if/else`
   - Embedded expressions with `&&` operator 
   - `? :` conditional operator
