@@ -1,12 +1,10 @@
-Visualization w/ Tableau 1
-==========================
+Data Preparation in Tableau
+===========================
 
 Goals
 -----
 
-- Setup Tableau
-- Understand measures and dimensions
-- Create simple worksheets
+Objectives: Filtering, sorting, groups, hierarchies, and sets
 
 Objectives
 ----------

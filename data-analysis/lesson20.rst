@@ -1,11 +1,10 @@
-Visualization w/ Tableau 2
-==========================
+Tableau Part 3
+==============
 
 Goals
 -----
 
-- Understand how to use functions in Tableau
-- Setup Tableau public profile
+Objectives: Creating basic calculations, parameters
 
 Objectives
 ----------
