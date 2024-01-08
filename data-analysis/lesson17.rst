@@ -1,5 +1,5 @@
-Lesson 15: Working with databases in Python
-===========================================
+Working with Databases in Python
+================================
 
 Goals
 -----

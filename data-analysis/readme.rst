@@ -7,8 +7,11 @@ LC101 Goals and Objectives - Unit 2 (Data Analysis)
    * - Lesson #
      - Topics
      - Objectives
+   * - 0
+     - Course Prework
+     - `objectives <prework.rst>`__
    * - 1
-     - Intro to Python, setup, data types and variables
+     - Intro to Data Analysis
      - `objectives <lesson01.rst>`__
    * - 2
      - Control flow and modules
